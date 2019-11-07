@@ -1,0 +1,164 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Index</title>
+        <script type="text/javascript" src="./dataset.json" charset="utf-8"></script>
+        <style type="text/css" media="screen">
+            .screenshot {
+                float: left;
+                margin-right: 10px;
+                position: relative;
+            }
+            body {
+                padding-top: 30px;
+            }
+            .menu {
+                width: 100%;
+                position: fixed;
+                top: 0;
+                left: 0;
+                text-align: right;
+            }
+            .screenshot .diff {
+                position: absolute;
+                top: 0;
+                right: 0;
+                width: 100%;
+                height: 100%;
+                background-image: url(./result.png);
+                opacity: 0;
+                transition: all linear 0.3s;
+            }
+            .screenshot .diff.clusters { background-image: url(./clustered-result.png); }
+            .screenshot .diff.appear { opacity: 1; }
+            .screenshot .cluster {
+                position: absolute;
+                border: 5px solid red;
+                transition: all linear 0.3s;
+            }
+            .selected_cluster img { border: 5px solid red; }
+            .report {
+                background-color: red;
+                clear: both;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="menu">
+            <input type="text" class="cursor" value="" />
+            <button class="show_diffs">show diffs</button>
+            <button class="show_diffs clustered">show clusters</button>
+            <button class="report">report</button>
+            <div class="selected_cluster"> <span></span><img src="" /> </div>
+        </div>
+        <div class="screenshot baseline">
+            <img src="./screenshot-baseline.png" />
+            <div class="diff"></div>
+            <div class="diff clusters"></div>
+            <div class="cluster"></div>
+        </div>
+        <div class="screenshot test">
+            <img src="./screeenshot-test.png" />
+            <div class="diff"></div>
+            <div class="diff clusters"></div>
+            <div class="cluster"></div>
+        </div>
+        <div class="report"></div>
+        <script type="text/javascript" charset="utf-8">
+            let cursor = document.querySelector('input'),
+                report = document.querySelector('div.report'),
+                report_button = document.querySelector('button.report'),
+                selected_cluster = document.querySelector('.selected_cluster img'),
+                selected_cluster_id = document.querySelector('.selected_cluster span'),
+                cluster_baseline_display = document.querySelector('.screenshot.baseline .cluster'),
+                cluster_test_display = document.querySelector('.screenshot.test .cluster'),
+                show_diffs_button = document.querySelector('.show_diffs'),
+                show_clusters_button = document.querySelector('.show_diffs.clustered'),
+                base_screenshot_diff = document.querySelector('.screenshot.baseline .diff'),
+                test_screenshot_diff = document.querySelector('.screenshot.test .diff');
+                base_screenshot_cl = document.querySelector('.screenshot.baseline .clusters'),
+                test_screenshot_cl = document.querySelector('.screenshot.test .clusters');
+            show_diffs_button.addEventListener('click', () => {
+                if (base_screenshot_diff.className.search('appear') === -1) {
+                    base_screenshot_diff.className += ' appear';
+                    test_screenshot_diff.className += ' appear';
+                    show_diffs_button.innerHTML = 'hide diff';
+                } else {
+                    base_screenshot_diff.className = 'diff';
+                    test_screenshot_diff.className = 'diff';
+                    show_diffs_button.innerHTML = 'show diff';
+                }
+            });
+            show_clusters_button.addEventListener('click', () => {
+                if (base_screenshot_cl.className.search('appear') === -1) {
+                    base_screenshot_cl.className += ' appear';
+                    test_screenshot_cl.className += ' appear';
+                    show_clusters_button.innerHTML = 'hide clusters';
+                } else {
+                    base_screenshot_cl.className = 'diff clusters';
+                    test_screenshot_cl.className = 'diff clusters';
+                    show_clusters_button.innerHTML = 'show clusters';
+                }
+            });
+            report_button.addEventListener('click', () => {
+                App.report();
+            });
+            cursor.addEventListener('keyup', function (ev){
+                if (ev.keyCode === 39 || ev.keyCode === 40)
+                    App.next();
+                if (ev.keyCode === 38 || ev.keyCode === 37)
+                    App.prev();
+                if (ev.keyCode === 13)
+                    App.classify();
+            });
+
+            let App = (function () {
+                let clusters = dataset['data'],
+                    selected = -1,
+                    render = null;
+                render = () => {
+                    let left = clusters[selected][256],
+                        right = clusters[selected][257],
+                        top = clusters[selected][258],
+                        bottom = clusters[selected][259];
+                    selected_cluster.src = 'cluster-' + selected + '.png';
+                    cluster_baseline_display.style.backgroundImage =
+                        'url(./cluster-' + selected + '.png)';
+                    cluster_baseline_display.style.left = left + 'px';
+                    cluster_baseline_display.style.top = top + 'px';
+                    cluster_baseline_display.style.width = (right - left) + 'px';
+                    cluster_baseline_display.style.height = (bottom - top) + 'px';
+                    cluster_test_display.style.backgroundImage =
+                        'url(./cluster-' + selected + '.png)';
+                    cluster_test_display.style.left = left + 'px';
+                    cluster_test_display.style.top = top + 'px';
+                    cluster_test_display.style.width = (right - left) + 'px';
+                    cluster_test_display.style.height = (bottom - top) + 'px';
+                    selected_cluster_id.innerHTML = selected;
+                };
+
+                return {
+                    next: () => {
+                        selected = (selected + 1) % clusters.length;
+                        render();
+                    },
+                    prev: () => {
+                        selected = (selected - 1) % clusters.length;
+                        render();
+                    },
+                    classify: () => {
+                        clusters[selected][286] = cursor.value ? cursor.value : 0;
+                        cursor.value = '';
+                    },
+                    report: () => {
+                        report.innerHTML = '';
+                        for (var i = 0; i < clusters.length; i++) {
+                            report.innerHTML += clusters[i].join(',') + '\n';
+                        };
+                    }
+                };
+            })();
+        </script>
+    </body>
+</html>
