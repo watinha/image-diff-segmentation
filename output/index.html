@@ -125,14 +125,14 @@
                     selected_cluster.src = 'cluster-' + selected + '.png';
                     cluster_baseline_display.style.backgroundImage =
                         'url(./cluster-' + selected + '.png)';
-                    cluster_baseline_display.style.left = left + 'px';
-                    cluster_baseline_display.style.top = top + 'px';
+                    cluster_baseline_display.style.left = (left - 5) + 'px';
+                    cluster_baseline_display.style.top = (top - 5) + 'px';
                     cluster_baseline_display.style.width = (right - left) + 'px';
                     cluster_baseline_display.style.height = (bottom - top) + 'px';
                     cluster_test_display.style.backgroundImage =
                         'url(./cluster-' + selected + '.png)';
-                    cluster_test_display.style.left = left + 'px';
-                    cluster_test_display.style.top = top + 'px';
+                    cluster_test_display.style.left = (left - 5) + 'px';
+                    cluster_test_display.style.top = (top - 5) + 'px';
                     cluster_test_display.style.width = (right - left) + 'px';
                     cluster_test_display.style.height = (bottom - top) + 'px';
                     selected_cluster_id.innerHTML = selected;
@@ -140,11 +140,11 @@
 
                 return {
                     next: () => {
-                        selected = (selected + 1) % clusters.length;
+                        selected = Math.min((selected + 1), clusters.length - 1);
                         render();
                     },
                     prev: () => {
-                        selected = (selected - 1) % clusters.length;
+                        selected = Math.max((selected - 1), 0);
                         render();
                     },
                     classify: () => {
