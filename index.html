@@ -140,11 +140,11 @@
 
                 return {
                     next: () => {
-                        selected = (selected + 1) % clusters.length;
+                        selected = Math.min((selected + 1), clusters.length - 1);
                         render();
                     },
                     prev: () => {
-                        selected = (selected - 1) % clusters.length;
+                        selected = Math.max((selected - 1), 0);
                         render();
                     },
                     classify: () => {

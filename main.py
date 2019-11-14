@@ -24,10 +24,19 @@ f2 = sys.argv[2]
 n_clusters = int(sys.argv[3])
 dim = int(sys.argv[4])
 
-i1 = Image.open(f1).convert('L')
-i2 = Image.open(f2).convert('L').resize(i1.size)
+i1 = Image.open(f1)
+i2 = Image.open(f2)
 i1.save('output/screenshot-baseline.png')
 i2.save('output/screeenshot-test.png')
+
+diff_width = i2.size[0] - i1.size[0]
+min_height = min(i1.size[1], i2.size[1])
+crop_area = (int(diff_width / 2), 0, i1.size[0] + int(diff_width / 2), min_height)
+i1 = i1.convert('L')
+i2 = i2.convert('L').crop(crop_area)
+#i2 = i2.convert('L').resize(i1.size)
+i1.save('output/screenshot-baseline-croped.png')
+i2.save('output/screeenshot-test-croped.png')
 
 diff = Image.new('RGBA', i1.size, (0, 0, 0, 0))
 clustered_image = Image.new('RGBA', i1.size, (0, 0, 0, 0))
@@ -35,7 +44,7 @@ diffs = []
 
 (width, height) = i1.size
 for i in range(width):
-    for j in range(height):
+    for j in range(min_height):
         pixel_i1 = i1.getpixel((i, j))
         pixel_i2 = i2.getpixel((i, j))
         if pixel_i1 != pixel_i2:
