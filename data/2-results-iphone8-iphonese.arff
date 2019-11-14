@@ -1,0 +1,83 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201602/04/1.html,102,DIV,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/102.png,results/iphonese/102.png,35,35,1541,1541,62,98,337,287,35,35,1304,1304,2854205.0,474932.4,750,640,375,323,/body[2]/div[6]/div[1]/div[1]/div[1]/div[2],/body[2]/div[6]/div[1]/div[1]/div[1]/div[2],/body[2]/div[6]/div[1]/div[1]/div[1]/div[2],0.4,35,35,1502,1502,0,0,0,0,1,1,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,101,A,0,9,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/101.png,results/iphonese/101.png,35,35,1502,1502,54,54,136,136,35,35,1304,1304,519244.0,8390.4,750,640,375,323,/body[2]/div[6]/div[1]/div[1]/div[1]/a[1],/body[2]/div[6]/div[1]/div[1]/div[1]/a[1],/body[2]/div[6]/div[1]/div[1]/div[1]/a[1],1.0,0,0,899,899,35,35,1541,1541,1,1,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,100,DIV,2,49,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,1304,1304,300,336,337,288,35,35,1304,1304,0.0,0.0,750,640,375,323,/body[2]/div[6]/div[1]/div[1]/div[1],/body[2]/div[6]/div[1]/div[1]/div[1],/body[2]/div[6]/div[1]/div[1]/div[1],0.0,0,0,899,899,0,0,0,0,3,3,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,99,DIV,3,80,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,1304,1304,300,300,337,288,0,0,1304,1304,0.0,0.0,750,640,375,323,/body[2]/div[6]/div[1]/div[1],/body[2]/div[6]/div[1]/div[1],/body[2]/div[6]/div[1]/div[1],0.0,0,0,899,899,0,0,0,0,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,98,DIV,4,112,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,1304,1304,300,300,375,320,0,0,1269,1269,0.0,0.0,750,640,375,323,/body[2]/div[6]/div[1],/body[2]/div[6]/div[1],/body[2]/div[6]/div[1],0.0,0,0,899,899,0,0,0,0,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,97,DIV,5,125,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,1269,1269,370,370,375,320,0,0,0,0,0.0,0.0,750,640,375,323,/body[2]/div[6],/body[2]/div[6],/body[2]/div[6],0.0,0,0,899,899,0,0,0,0,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,96,DIV,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/96.png,results/iphonese/96.png,35,35,1171,1171,62,98,337,287,35,35,934,934,3014408.0,148296.4,750,640,375,323,/body[2]/div[5]/div[1]/div[1]/div[1]/div[2],/body[2]/div[5]/div[1]/div[1]/div[1]/div[2],/body[2]/div[5]/div[1]/div[1]/div[1]/div[2],0.4,35,35,1132,1132,0,0,1269,1269,1,1,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,95,A,0,9,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/95.png,results/iphonese/95.png,35,35,1132,1132,54,54,136,136,35,35,934,934,371049.0,12540.4,750,640,375,323,/body[2]/div[5]/div[1]/div[1]/div[1]/a[1],/body[2]/div[5]/div[1]/div[1]/div[1]/a[1],/body[2]/div[5]/div[1]/div[1]/div[1]/a[1],0.6,0,0,529,529,35,35,1171,1171,1,1,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,94,DIV,2,49,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,934,934,300,336,337,288,35,35,934,934,0.0,0.0,750,640,375,323,/body[2]/div[5]/div[1]/div[1]/div[1],/body[2]/div[5]/div[1]/div[1]/div[1],/body[2]/div[5]/div[1]/div[1]/div[1],0.0,0,0,529,529,0,0,1269,1269,3,3,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,93,DIV,3,80,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,934,934,300,300,337,288,0,0,934,934,0.0,0.0,750,640,375,323,/body[2]/div[5]/div[1]/div[1],/body[2]/div[5]/div[1]/div[1],/body[2]/div[5]/div[1]/div[1],0.0,0,0,529,529,0,0,1269,1269,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,92,DIV,4,112,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,934,934,300,300,375,320,0,0,899,899,0.0,0.0,750,640,375,323,/body[2]/div[5]/div[1],/body[2]/div[5]/div[1],/body[2]/div[5]/div[1],0.0,0,0,529,529,0,0,1269,1269,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,91,DIV,5,125,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,899,899,370,370,375,320,0,0,0,0,0.0,0.0,750,640,375,323,/body[2]/div[5],/body[2]/div[5],/body[2]/div[5],0.0,0,0,529,529,0,0,1269,1269,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,90,DIV,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/90.png,results/iphonese/90.png,35,35,801,801,62,98,337,287,35,35,564,564,3172232.0,213184.2,750,640,375,323,/body[2]/div[4]/div[1]/div[1]/div[1]/div[2],/body[2]/div[4]/div[1]/div[1]/div[1]/div[2],/body[2]/div[4]/div[1]/div[1]/div[1]/div[2],0.4,35,35,762,762,0,0,899,899,1,1,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,89,A,0,9,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/89.png,results/iphonese/89.png,35,35,762,762,54,54,136,136,35,35,564,564,430406.0,6051.1,750,640,375,323,/body[2]/div[4]/div[1]/div[1]/div[1]/a[1],/body[2]/div[4]/div[1]/div[1]/div[1]/a[1],/body[2]/div[4]/div[1]/div[1]/div[1]/a[1],1.0,0,0,194,194,35,35,801,801,1,1,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,88,DIV,2,49,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,564,564,300,336,337,288,35,35,564,564,0.0,0.0,750,640,375,323,/body[2]/div[4]/div[1]/div[1]/div[1],/body[2]/div[4]/div[1]/div[1]/div[1],/body[2]/div[4]/div[1]/div[1]/div[1],0.0,0,0,194,194,0,0,899,899,3,3,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,87,DIV,3,80,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,564,564,300,300,337,288,0,0,564,564,0.0,0.0,750,640,375,323,/body[2]/div[4]/div[1]/div[1],/body[2]/div[4]/div[1]/div[1],/body[2]/div[4]/div[1]/div[1],0.0,0,0,194,194,0,0,899,899,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,86,DIV,4,111,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,564,564,300,300,375,320,0,0,529,529,0.0,0.0,750,640,375,323,/body[2]/div[4]/div[1],/body[2]/div[4]/div[1],/body[2]/div[4]/div[1],0.0,0,0,194,194,0,0,899,899,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,85,DIV,5,124,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,529,529,370,370,375,320,0,0,0,0,0.0,0.0,750,640,375,323,/body[2]/div[4],/body[2]/div[4],/body[2]/div[4],0.0,0,0,194,194,0,0,899,899,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,84,DIV,0,18,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/84.png,results/iphonese/84.png,35,35,431,431,102,102,337,287,35,35,194,194,3044446.0,16793.3,750,640,375,323,/body[2]/div[3]/div[1]/div[1]/div[1]/div[2],/body[2]/div[3]/div[1]/div[1]/div[1]/div[2],/body[2]/div[3]/div[1]/div[1]/div[1]/div[2],0.4,35,35,392,392,0,0,529,529,1,1,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,83,A,0,9,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/83.png,results/iphonese/83.png,35,35,392,392,54,54,136,136,35,35,194,194,473793.0,9327.6,750,640,375,323,/body[2]/div[3]/div[1]/div[1]/div[1]/a[1],/body[2]/div[3]/div[1]/div[1]/div[1]/a[1],/body[2]/div[3]/div[1]/div[1]/div[1]/a[1],1.0,0,0,20,20,35,35,431,431,1,1,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,82,DIV,2,48,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,194,194,340,340,337,288,35,35,194,194,0.0,0.0,750,640,375,323,/body[2]/div[3]/div[1]/div[1]/div[1],/body[2]/div[3]/div[1]/div[1]/div[1],/body[2]/div[3]/div[1]/div[1]/div[1],0.0,0,0,20,20,0,0,529,529,3,3,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,81,DIV,3,81,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,35,35,194,194,300,300,337,288,0,0,194,194,0.0,0.0,750,640,375,323,/body[2]/div[3]/div[1]/div[1],/body[2]/div[3]/div[1]/div[1],/body[2]/div[3]/div[1]/div[1],0.0,0,0,20,20,0,0,529,529,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,80,DIV,4,117,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,194,194,300,300,375,320,0,0,194,194,0.0,0.0,750,640,375,323,/body[2]/div[3]/div[1],/body[2]/div[3]/div[1],/body[2]/div[3]/div[1],0.0,0,0,20,20,0,0,529,529,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,79,DIV,5,130,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,194,194,300,300,375,320,0,0,0,0,0.0,0.0,750,640,375,323,/body[2]/div[3],/body[2]/div[3],/body[2]/div[3],0.0,0,0,20,20,0,0,529,529,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,78,DIV,0,1,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/78.png,results/iphonese/78.png,0,0,20,20,139,139,375,320,0,0,0,0,1940758.0,8988.1,750,640,375,323,/body[2]/div[2],/body[2]/div[2],/body[2]/div[2],0.9,0,0,0,0,0,0,194,194,1,1,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,56,BUTTON,0,1,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/56.png,results/iphonese/56.png,345,290,27,27,30,30,30,30,129,129,0,0,97995.0,1100.8,750,640,375,323,/body[2]/div[1]/div[3]/ul[1]/li[11]/button[1],/body[2]/div[1]/div[3]/ul[1]/li[11]/button[1],/body[2]/div[1]/div[3]/ul[1]/li[11]/button[1],1.0,129,129,0,0,0,0,0,0,1,1,Helvetica,Helvetica
+http://wwatana.be/mobile/mobile/201602/04/1.html,54,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/54.png,results/iphonese/54.png,320,265,27,27,30,30,30,30,129,129,0,0,102591.0,136.3,750,640,375,323,/body[2]/div[1]/div[3]/ul[1]/li[10]/img[1],/body[2]/div[1]/div[3]/ul[1]/li[10]/img[1],/body[2]/div[1]/div[3]/ul[1]/li[10]/img[1],0.7,129,129,0,0,129,129,0,0,0,0,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,52,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/52.png,results/iphonese/52.png,291,236,27,27,30,30,30,30,129,129,0,0,78519.0,169.1,750,640,375,323,/body[2]/div[1]/div[3]/ul[1]/li[9]/input[1],/body[2]/div[1]/div[3]/ul[1]/li[9]/input[1],/body[2]/div[1]/div[3]/ul[1]/li[9]/input[1],0.6,222,167,0,0,129,129,0,0,0,0,Helvetica,Helvetica
+http://wwatana.be/mobile/mobile/201602/04/1.html,50,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/50.png,results/iphonese/50.png,222,167,25,25,30,30,85,85,222,167,0,0,88011.0,250.9,750,640,375,323,/body[2]/div[1]/div[3]/ul[1]/li[8]/input[1],/body[2]/div[1]/div[3]/ul[1]/li[8]/input[1],/body[2]/div[1]/div[3]/ul[1]/li[8]/input[1],0.6,129,129,0,0,129,129,0,0,0,0,Helvetica,Helvetica
+http://wwatana.be/mobile/mobile/201602/04/1.html,49,LI,1,112,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,222,167,0,0,100,100,122,122,129,129,0,0,0.0,0.0,750,640,375,323,/body[2]/div[1]/div[3]/ul[1]/li[8],/body[2]/div[1]/div[3]/ul[1]/li[8],/body[2]/div[1]/div[3]/ul[1]/li[8],0.0,129,129,0,0,129,129,0,0,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201602/04/1.html,21,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/21.png,results/iphonese/21.png,84,29,0,0,89,89,90,90,129,129,0,0,1235608.0,15233.7,750,640,375,323,/body[2]/div[1]/div[3]/ul[1]/li[3]/a[1],/body[2]/div[1]/div[3]/ul[1]/li[3]/a[1],/body[2]/div[1]/div[3]/ul[1]/li[3]/a[1],0.7,129,129,0,0,129,129,0,0,1,1,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,2,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/2.png,results/iphonese/2.png,10,10,10,10,91,91,109,109,0,0,0,0,395032.0,4213.4,750,640,375,323,/body[2]/div[1]/a[1]/img[1],/body[2]/div[1]/a[1]/img[1],/body[2]/div[1]/a[1]/img[1],0.9,0,0,0,0,0,0,0,0,0,0,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,1,A,1,27,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,111,111,129,129,0,0,0,0,0.0,0.0,750,640,375,323,/body[2]/div[1]/a[1],/body[2]/div[1]/a[1],/body[2]/div[1]/a[1],0.0,0,0,0,0,0,0,0,0,2,2,"titillium web","titillium web"
+http://wwatana.be/mobile/mobile/201602/04/1.html,0,DIV,77,2452,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,124,124,375,320,0,0,0,0,0.0,0.0,750,640,375,323,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,20,20,5,5,-webkit-standard,-webkit-standard

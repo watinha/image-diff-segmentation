@@ -1,0 +1,61 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201801/2/,17,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/17.png,results/iphonese/17.png,104,89,298,264,208,208,200,200,103,88,305,271,541599.0,23010.5,750,640,375,320,/body[2]/div[1]/div[3]/div[5]/img[1],/body[2]/div[1]/div[3]/div[5]/img[1],/body[2]/div[1]/div[3]/div[5]/img[1],1.0,153,131,491,423,0,0,0,0,0,0,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,16,DIV,1,21,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,103,88,305,271,202,202,202,202,18,16,276,246,0.0,0.0,750,640,375,320,/body[2]/div[1]/div[3]/div[5],/body[2]/div[1]/div[3]/div[5],/body[2]/div[1]/div[3]/div[5],0.0,153,131,491,423,0,0,0,0,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,15,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/15.png,results/iphonese/15.png,153,131,491,423,2,2,80,80,18,16,276,246,51273.0,160.0,750,640,375,320,/body[2]/div[1]/div[3]/div[4],/body[2]/div[1]/div[3]/div[4],/body[2]/div[1]/div[3]/div[4],0.0,45,39,508,437,103,88,305,271,0,0,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,14,P2,0,205,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/14.png,results/iphonese/14.png,45,39,508,437,132,154,283,241,18,16,276,246,3533539.0,7554.8,750,640,375,320,/body[2]/div[1]/div[3]/p2[3],/body[2]/div[1]/div[3]/p2[3],/body[2]/div[1]/div[3]/p2[3],1.0,113,96,469,408,153,131,491,423,1,1,"trebuchet ms","trebuchet ms"
+http://wwatana.be/mobile/mobile/201801/2/,13,H2,0,21,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/13.png,results/iphonese/13.png,113,96,469,408,24,24,177,177,18,16,276,246,732521.0,4009.2,750,640,375,320,/body[2]/div[1]/div[3]/h2[2],/body[2]/div[1]/div[3]/h2[2],/body[2]/div[1]/div[3]/h2[2],0.6,0,0,0,0,45,39,508,437,1,1,"trebuchet ms","trebuchet ms"
+http://wwatana.be/mobile/mobile/201801/2/,6,DIV,12,702,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,18,16,276,246,553,454,337,288,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[1]/div[3],/body[2]/div[1]/div[3],/body[2]/div[1]/div[3],0.0,37,32,126,123,0,0,0,0,7,7,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,5,P,0,79,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/5.png,results/iphonese/5.png,37,32,215,209,81,81,300,256,37,32,126,123,3282480.0,14465.2,750,640,375,320,/body[2]/div[1]/div[2]/p[2],/body[2]/div[1]/div[2]/p[2],/body[2]/div[1]/div[2]/p[2],1.0,37,32,143,137,18,16,276,246,1,1,"trebuchet ms","trebuchet ms"
+http://wwatana.be/mobile/mobile/201801/2/,4,H1,0,8,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/4.png,results/iphonese/4.png,37,32,143,137,45,45,300,256,37,32,126,123,756752.0,7340.4,750,640,375,320,/body[2]/div[1]/div[2]/h1[1],/body[2]/div[1]/div[2]/h1[1],/body[2]/div[1]/div[2]/h1[1],1.0,147,120,38,31,37,32,215,209,1,1,"trebuchet ms","trebuchet ms"
+http://wwatana.be/mobile/mobile/201801/2/,3,DIV,2,106,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,37,32,126,123,165,136,300,256,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[1]/div[2],/body[2]/div[1]/div[2],/body[2]/div[1]/div[2],0.0,147,120,38,31,18,16,276,246,3,3,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,2,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/2.png,results/iphonese/2.png,147,120,38,31,80,80,80,80,147,120,38,31,61602.0,1981.4,750,640,375,320,/body[2]/div[1]/div[1]/img[1],/body[2]/div[1]/div[1]/img[1],/body[2]/div[1]/div[1]/img[1],1.0,0,0,0,0,37,32,126,123,0,0,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,1,DIV,1,22,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,147,120,38,31,80,80,80,80,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[1]/div[1],/body[2]/div[1]/div[1],/body[2]/div[1]/div[1],0.0,0,0,0,0,37,32,126,123,2,2,-webkit-standard,-webkit-standard
+http://wwatana.be/mobile/mobile/201801/2/,0,DIV,18,909,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,553,454,375,320,8,8,8,8,0.0,0.0,750,640,375,320,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,0,0,4,4,-webkit-standard,-webkit-standard

@@ -1,0 +1,66 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/m.twitch.tv/,19,SPAN,0,22,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/19.png,results/motog4/19.png,102,97,515,159,15,14,134,130,0,0,496,139,119483.0,1792298.8,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/a[2]/span[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/a[2]/span[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/a[2]/span[1],1.0,0,0,466,109,0,0,0,0,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,18,A,1,35,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,496,139,36,36,337,324,0,0,466,109,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/a[2],/body[2]/div[1]/div[1]/div[2]/footer[3]/a[2],/body[2]/div[1]/div[1]/div[2]/footer[3]/a[2],0.0,0,0,466,109,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,17,SPAN,0,11,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/17.png,results/motog4/17.png,135,129,473,117,15,14,68,65,127,121,467,110,104321.0,432663.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1]/span[1]/span[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1]/span[1]/span[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1]/span[1]/span[1],0.5,0,0,92,93,0,0,496,139,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,16,SPAN,1,24,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,127,121,467,110,28,28,83,80,0,0,466,109,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1]/span[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1]/span[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1]/span[1],0.0,0,0,92,93,0,0,496,139,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,15,A,2,92,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,466,109,30,30,337,324,0,0,466,109,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1]/a[1],0.0,0,0,92,93,0,0,496,139,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,14,DIV,3,196,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,466,109,30,30,337,324,0,0,466,109,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1]/div[1],0.0,0,0,92,93,0,0,496,139,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,13,DIV,4,227,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,466,109,30,30,337,324,0,0,466,109,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1],/body[2]/div[1]/div[1]/div[2]/footer[3]/div[1],0.0,0,0,92,93,0,0,496,139,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,12,FOOTER,7,352,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,466,109,66,66,337,324,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/footer[3],/body[2]/div[1]/div[1]/div[2]/footer[3],/body[2]/div[1]/div[1]/div[2]/footer[3],0.0,0,0,92,93,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,11,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/11.png,results/motog4/11.png,0,0,91,91,375,16,375,16,0,0,92,93,22734820.0,140683.8,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/picture[2]/img[2],/body[2]/div[1]/div[1]/div[2]/picture[2]/img[2],/body[2]/div[1]/div[1]/div[2]/picture[2]/img[2],0.9,0,0,91,91,0,0,466,109,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,9,PICTURE,2,521,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,92,93,15,14,375,16,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/picture[2],/body[2]/div[1]/div[1]/div[2]/picture[2],/body[2]/div[1]/div[1]/div[2]/picture[2],0.0,0,0,0,0,0,0,466,109,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,8,SPAN,0,47,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/8.png,results/motog4/8.png,0,0,39,40,49,48,270,267,0,0,37,37,1055462.0,149203.2,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/div[1]/p[2]/span[1],/body[2]/div[1]/div[1]/div[2]/div[1]/p[2]/span[1],/body[2]/div[1]/div[1]/div[2]/div[1]/p[2]/span[1],1.0,0,0,0,0,0,0,92,93,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,7,P,1,60,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,37,37,54,54,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/div[1]/p[2],/body[2]/div[1]/div[1]/div[2]/div[1]/p[2],/body[2]/div[1]/div[1]/div[2]/div[1]/p[2],0.0,0,0,0,0,0,0,92,93,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,5,svg,1,412,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,32,32,94,94,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/div[1]/svg[1],/body[2]/div[1]/div[1]/div[2]/div[1]/svg[1],/body[2]/div[1]/div[1]/div[2]/div[1]/svg[1],0.0,0,0,0,0,0,0,37,37,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,4,DIV,4,624,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,91,91,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2]/div[1],/body[2]/div[1]/div[1]/div[2]/div[1],/body[2]/div[1]/div[1]/div[2]/div[1],0.0,0,0,0,0,0,0,92,93,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,3,DIV,16,1589,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,532,175,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1]/div[2],/body[2]/div[1]/div[1]/div[2],/body[2]/div[1]/div[1]/div[2],0.0,0,0,0,0,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,1,DIV,18,1611,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,532,175,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[1],/body[2]/div[1]/div[1],/body[2]/div[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/topsites/m.twitch.tv/,0,DIV,19,1622,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,532,175,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"

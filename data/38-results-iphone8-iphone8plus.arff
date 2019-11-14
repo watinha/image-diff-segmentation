@@ -1,0 +1,62 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/www.live.com/,12,A,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/12.png,results/iphone8plus/12.png,196,216,354,354,20,20,143,142,35,35,354,354,151188.0,2717.3,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1],1.0,35,35,244,244,0,0,0,0,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,11,DIV,1,170,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,35,35,354,354,21,21,305,344,35,35,354,354,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1],0.0,35,35,244,244,0,0,0,0,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,10,DIV,2,207,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,35,35,354,354,21,21,305,344,35,35,40,40,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/div[5],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5],0.0,35,35,244,244,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,9,A,0,8,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/9.png,results/iphone8plus/9.png,127,147,269,269,35,35,120,120,35,35,244,244,76119.0,8355.1,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1],1.0,120,140,223,223,35,35,354,354,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,8,DIV,1,98,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,35,35,244,244,60,60,305,344,35,35,40,40,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/div[4],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4],0.0,120,140,223,223,35,35,354,354,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,7,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/7.png,results/iphone8plus/7.png,120,140,199,199,40,40,134,134,120,140,223,223,274392.0,3361.3,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/a[3]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3]/img[1],0.8,35,35,120,120,35,35,244,244,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,6,A,1,141,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,120,140,223,223,20,20,135,134,35,35,40,40,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/a[3],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3],0.0,35,35,120,120,35,35,244,244,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,5,DIV,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/5.png,results/iphone8plus/5.png,35,35,120,120,39,39,305,344,35,35,40,40,421657.0,3593.2,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/div[2],/body[2]/section[1]/div[1]/div[1]/div[1]/div[2],/body[2]/section[1]/div[1]/div[1]/div[1]/div[2],0.8,155,174,40,40,120,140,223,223,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,4,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/4.png,results/iphone8plus/4.png,155,174,40,40,65,65,65,65,35,35,40,40,103246.0,7550.2,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/img[1],1.0,0,0,0,0,35,35,120,120,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,3,DIV,9,657,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,35,35,40,40,335,335,305,344,35,35,0,0,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,2,DIV,10,688,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,35,35,0,0,375,375,305,344,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,1,DIV,11,718,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,0,0,375,375,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/section[1]/div[1],/body[2]/section[1]/div[1],/body[2]/section[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,0,SECTION,12,747,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,0,0,375,375,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/section[1],/body[2]/section[1],/body[2]/section[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"

@@ -1,0 +1,67 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/m.youtube.com/,42,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/42.png,results/iphonese/42.png,167,140,143,144,32,32,32,32,0,0,0,0,17562.0,138.2,750,640,375,320,/body[2]/ytm-app[7]/div[6],/body[2]/ytm-app[7]/div[6],/body[2]/ytm-app[7]/div[6],0.5,0,0,0,0,0,0,0,0,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,35,svg,1,163,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,335,280,12,12,24,24,24,24,335,280,12,12,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1]/c3-icon[1]/svg[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1]/c3-icon[1]/svg[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1]/c3-icon[1]/svg[1],0.0,287,232,4,4,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,34,C3-ICON,2,230,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,335,280,12,12,24,24,24,24,327,272,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1]/c3-icon[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1]/c3-icon[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1]/c3-icon[1],0.0,287,232,4,4,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,33,BUTTON,3,270,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,327,272,4,4,40,40,40,40,327,272,24,24,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1]/button[1],0.0,287,232,4,4,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,32,YTM-MENU,4,355,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,327,272,24,24,15,15,40,40,327,272,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2]/ytm-menu[1],0.0,287,232,4,4,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,31,YTM-TOP-MENU,5,376,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,327,272,4,4,40,40,40,40,287,232,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/ytm-top-menu[2],0.0,287,232,4,4,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,29,svg,1,252,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,295,240,12,12,24,24,24,24,295,240,12,12,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1]/c3-icon[1]/svg[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1]/c3-icon[1]/svg[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1]/c3-icon[1]/svg[1],0.0,60,60,15,15,327,272,4,4,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,28,C3-ICON,2,319,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,295,240,12,12,24,24,24,24,287,232,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1]/c3-icon[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1]/c3-icon[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1]/c3-icon[1],0.0,60,60,15,15,327,272,4,4,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,27,BUTTON,3,359,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,287,232,4,4,40,40,40,40,287,232,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2]/button[1],0.0,60,60,15,15,327,272,4,4,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,26,DIV,10,835,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,287,232,4,4,40,40,80,80,60,60,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/div[2],0.0,60,60,15,15,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,25,H1,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/25.png,results/iphonese/25.png,60,60,15,15,18,18,227,172,60,60,4,4,152244.0,309.9,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/h1[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/h1[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3]/h1[1],0.3,0,0,0,0,287,232,4,4,1,1,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,24,DIV,12,929,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,60,60,4,4,40,40,307,252,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/div[3],0.0,0,0,0,0,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,12,svg,1,321,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,4,4,40,40,40,40,8,8,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1]/c3-icon[1]/svg[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1]/c3-icon[1]/svg[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1]/c3-icon[1]/svg[1],0.0,0,0,48,48,0,0,0,0,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,11,C3-ICON,2,388,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,4,4,40,40,40,40,8,8,4,4,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1]/c3-icon[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1]/c3-icon[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1]/c3-icon[1],0.0,0,0,48,48,0,0,0,0,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,10,A,3,452,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,4,4,40,40,40,40,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1]/a[1],0.0,0,0,48,48,0,0,0,0,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,9,HEADER,27,2347,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,48,48,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1],/body[2]/ytm-app[7]/ytm-header-bar[1]/header[1],0.0,0,0,48,48,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,8,YTM-HEADER-BAR,28,2407,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,48,48,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7]/ytm-header-bar[1],/body[2]/ytm-app[7]/ytm-header-bar[1],/body[2]/ytm-app[7]/ytm-header-bar[1],0.0,0,0,48,48,0,0,48,48,0,0,Roboto,Roboto
+http://wwatana.be/mobile/topsites/m.youtube.com/,7,YTM-APP,35,2685,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,180,180,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/ytm-app[7],/body[2]/ytm-app[7],/body[2]/ytm-app[7],0.0,0,0,48,48,0,0,0,0,0,0,Roboto,Roboto

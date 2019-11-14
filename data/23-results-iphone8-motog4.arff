@@ -1,0 +1,80 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201801/5/,31,A,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/31.png,results/motog4/31.png,37,33,998,1009,67,69,355,346,37,33,1009,1020,1994852.0,18003.8,750,1080,375,360,/body[2]/div[3]/div[2]/div[2]/div[3]/b[1]/a[1],/body[2]/div[3]/div[2]/div[2]/div[3]/b[1]/a[1],/body[2]/div[3]/div[2]/div[2]/div[3]/b[1]/a[1],1.0,0,0,907,910,0,0,0,0,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,30,B,1,31,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,37,33,1009,1020,19,22,301,292,0,0,1009,1020,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[2]/div[2]/div[3]/b[1],/body[2]/div[3]/div[2]/div[2]/div[3]/b[1],/body[2]/div[3]/div[2]/div[2]/div[3]/b[1],0.0,0,0,907,910,0,0,0,0,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,29,DIV,2,38,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,1009,1020,20,22,375,360,0,0,840,840,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[2]/div[2]/div[3],/body[2]/div[3]/div[2]/div[2]/div[3],/body[2]/div[3]/div[2]/div[2]/div[3],0.0,0,0,907,910,0,0,0,0,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,28,P,0,80,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/28.png,results/motog4/28.png,0,0,907,910,72,81,375,360,0,0,840,840,3138011.0,24673.1,750,1080,375,360,/body[2]/div[3]/div[2]/div[2]/p[2],/body[2]/div[3]/div[2]/div[2]/p[2],/body[2]/div[3]/div[2]/div[2]/p[2],0.5,0,0,860,860,0,0,1009,1020,1,1,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,27,H2,0,16,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/27.png,results/motog4/27.png,0,0,860,860,26,29,375,360,0,0,840,840,1231725.0,207931.1,750,1080,375,360,/body[2]/div[3]/div[2]/div[2]/h2[1],/body[2]/div[3]/div[2]/div[2]/h2[1],/body[2]/div[3]/div[2]/div[2]/h2[1],0.6,0,0,767,767,0,0,907,910,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,26,DIV,5,209,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,840,840,189,202,375,360,0,0,767,767,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[2]/div[2],/body[2]/div[3]/div[2]/div[2],/body[2]/div[3]/div[2]/div[2],0.0,0,0,767,767,0,0,0,0,4,4,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,25,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/25.png,results/motog4/25.png,0,0,767,767,360,360,375,360,0,0,767,767,6906906.0,2438533.6,750,1080,375,360,/body[2]/div[3]/div[2]/img[1],/body[2]/div[3]/div[2]/img[1],/body[2]/div[3]/div[2]/img[1],1.0,0,0,406,406,0,0,840,840,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,24,DIV,7,278,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,767,767,365,365,375,360,0,0,406,406,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[2],/body[2]/div[3]/div[2],/body[2]/div[3]/div[2],0.0,0,0,406,406,0,0,0,0,3,3,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,23,A,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/23.png,results/motog4/23.png,37,33,637,648,67,69,355,346,37,33,648,659,1657802.0,3230843.0,750,1080,375,360,/body[2]/div[3]/div[1]/div[2]/div[3]/b[1]/a[1],/body[2]/div[3]/div[1]/div[2]/div[3]/b[1]/a[1],/body[2]/div[3]/div[1]/div[2]/div[3]/b[1]/a[1],1.0,0,0,546,549,0,0,767,767,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,22,B,1,31,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,37,33,648,659,19,22,301,292,0,0,648,659,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[1]/div[2]/div[3]/b[1],/body[2]/div[3]/div[1]/div[2]/div[3]/b[1],/body[2]/div[3]/div[1]/div[2]/div[3]/b[1],0.0,0,0,546,549,0,0,767,767,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,21,DIV,2,38,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,648,659,20,22,375,360,0,0,479,479,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[1]/div[2]/div[3],/body[2]/div[3]/div[1]/div[2]/div[3],/body[2]/div[3]/div[1]/div[2]/div[3],0.0,0,0,546,549,0,0,767,767,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,20,P,0,80,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/20.png,results/motog4/20.png,0,0,546,549,72,81,375,360,0,0,479,479,3374653.0,27109.4,750,1080,375,360,/body[2]/div[3]/div[1]/div[2]/p[2],/body[2]/div[3]/div[1]/div[2]/p[2],/body[2]/div[3]/div[1]/div[2]/p[2],0.6,0,0,499,499,0,0,648,659,1,1,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,19,H2,0,16,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/19.png,results/motog4/19.png,0,0,499,499,26,29,375,360,0,0,479,479,950593.0,837420.9,750,1080,375,360,/body[2]/div[3]/div[1]/div[2]/h2[1],/body[2]/div[3]/div[1]/div[2]/h2[1],/body[2]/div[3]/div[1]/div[2]/h2[1],0.6,0,0,406,406,0,0,546,549,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,18,DIV,5,209,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,479,479,189,202,375,360,0,0,406,406,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[1]/div[2],/body[2]/div[3]/div[1]/div[2],/body[2]/div[3]/div[1]/div[2],0.0,0,0,406,406,0,0,767,767,4,4,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,17,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/17.png,results/motog4/17.png,0,0,406,406,360,360,375,360,0,0,406,406,6732217.0,138558.5,750,1080,375,360,/body[2]/div[3]/div[1]/img[1],/body[2]/div[3]/div[1]/img[1],/body[2]/div[3]/div[1]/img[1],1.0,0,0,45,45,0,0,479,479,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,16,DIV,7,277,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,406,406,365,365,375,360,0,0,406,406,0.0,0.0,750,1080,375,360,/body[2]/div[3]/div[1],/body[2]/div[3]/div[1],/body[2]/div[3]/div[1],0.0,0,0,45,45,0,0,767,767,3,3,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,15,DIV,16,628,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,406,406,730,730,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[3],/body[2]/div[3],/body[2]/div[3],0.0,0,0,45,45,0,0,0,0,2,2,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,14,B,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/14.png,results/motog4/14.png,133,125,291,305,19,21,109,108,37,33,279,293,333262.0,1995.3,750,1080,375,360,/body[2]/div[2]/div[2]/div[3]/a[1]/b[1],/body[2]/div[2]/div[2]/div[3]/a[1]/b[1],/body[2]/div[2]/div[2]/div[3]/a[1]/b[1],0.6,0,0,188,194,0,0,406,406,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,13,A,1,17,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,37,33,279,293,67,69,355,346,0,0,290,304,0.0,0.0,750,1080,375,360,/body[2]/div[2]/div[2]/div[3]/a[1],/body[2]/div[2]/div[2]/div[3]/a[1],/body[2]/div[2]/div[2]/div[3]/a[1],0.0,0,0,188,194,0,0,406,406,0,0,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,12,DIV,2,38,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,290,304,20,22,375,360,0,0,99,99,0.0,0.0,750,1080,375,360,/body[2]/div[2]/div[2]/div[3],/body[2]/div[2]/div[2]/div[3],/body[2]/div[2]/div[2]/div[3],0.0,0,0,188,194,0,0,406,406,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,11,P,0,80,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/11.png,results/motog4/11.png,0,0,188,194,72,81,375,360,0,0,99,99,2899189.0,22821.3,750,1080,375,360,/body[2]/div[2]/div[2]/p[2],/body[2]/div[2]/div[2]/p[2],/body[2]/div[2]/div[2]/p[2],0.5,0,0,116,116,0,0,290,304,1,1,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,10,H1,0,21,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/10.png,results/motog4/10.png,0,0,116,116,52,58,375,360,0,0,99,99,953636.0,107736.3,750,1080,375,360,/body[2]/div[2]/div[2]/h1[1],/body[2]/div[2]/div[2]/h1[1],/body[2]/div[2]/div[2]/h1[1],1.0,0,0,45,45,0,0,188,194,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,9,DIV,5,213,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,99,99,210,226,375,360,0,0,45,45,0.0,0.0,750,1080,375,360,/body[2]/div[2]/div[2],/body[2]/div[2]/div[2],/body[2]/div[2]/div[2],0.0,0,0,45,45,0,0,406,406,4,4,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,8,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/8.png,results/motog4/8.png,0,0,45,45,360,360,375,360,0,0,45,45,5912143.0,733444.2,750,1080,375,360,/body[2]/div[2]/img[1],/body[2]/div[2]/img[1],/body[2]/div[2]/img[1],1.0,0,0,0,0,0,0,99,99,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,7,DIV,7,279,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,45,45,365,365,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[2],/body[2]/div[2],/body[2]/div[2],0.0,0,0,0,0,0,0,406,406,3,3,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,6,P,0,4,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/6.png,results/motog4/6.png,306,289,12,9,24,27,58,60,272,255,-10,-10,171756.0,6158.4,750,1080,375,360,/body[2]/header[1]/div[3]/p[2],/body[2]/header[1]/div[3]/p[2],/body[2]/header[1]/div[3]/p[2],1.0,279,262,13,13,0,0,45,45,1,1,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,5,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/5.png,results/motog4/5.png,279,262,13,13,20,20,20,20,272,255,-10,-10,21723.0,547.4,750,1080,375,360,/body[2]/header[1]/div[3]/img[1],/body[2]/header[1]/div[3]/img[1],/body[2]/header[1]/div[3]/img[1],1.0,0,0,0,0,306,289,12,9,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,4,DIV,2,77,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,272,255,-10,-10,33,33,92,94,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/header[1]/div[3],/body[2]/header[1]/div[3],/body[2]/header[1]/div[3],0.0,0,0,0,0,0,0,45,45,0,0,-webkit-standard,"Times New Roman"
+http://wwatana.be/mobile/mobile/201801/5/,2,B,0,9,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/2.png,results/motog4/2.png,9,9,9,9,23,25,119,119,0,0,0,0,209131.0,710332.1,750,1080,375,360,/body[2]/header[1]/div[1]/b[1],/body[2]/header[1]/div[1]/b[1],/body[2]/header[1]/div[1]/b[1],1.0,0,0,0,0,0,0,0,0,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,1,DIV,1,16,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,42,44,136,136,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/header[1]/div[1],/body[2]/header[1]/div[1],/body[2]/header[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/5/,0,HEADER,6,203,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,45,45,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/header[1],/body[2]/header[1],/body[2]/header[1],0.0,0,0,0,0,0,0,45,45,2,2,-webkit-standard,"Times New Roman"

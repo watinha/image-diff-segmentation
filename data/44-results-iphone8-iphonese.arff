@@ -1,0 +1,69 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/www.tmall.com/,27,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/27.png,results/iphonese/27.png,0,0,0,0,44,37,44,37,0,0,0,0,72193.0,1295.3,750,640,375,320,/body[2]/div[9]/div[3]/img[1],/body[2]/div[9]/div[3]/img[1],/body[2]/div[9]/div[3]/img[1],1.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,26,DIV,1,509,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,44,37,44,37,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[3],/body[2]/div[9]/div[3],/body[2]/div[9]/div[3],0.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,25,SPAN,0,2,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/25.png,results/iphonese/25.png,335,285,97,82,30,25,28,24,335,285,97,82,0.0,68.6,750,640,375,320,/body[2]/div[9]/div[2]/div[3]/a[1]/span[1],/body[2]/div[9]/div[2]/div[3]/a[1]/span[1],/body[2]/div[9]/div[2]/div[3]/a[1]/span[1],1.0,12,10,90,76,0,0,0,0,1,1,undefined,undefined
+http://wwatana.be/mobile/topsites/www.tmall.com/,24,A,1,319,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,335,285,97,82,30,25,28,24,333,284,90,76,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[3]/a[1],/body[2]/div[9]/div[2]/div[3]/a[1],/body[2]/div[9]/div[2]/div[3]/a[1],0.0,12,10,90,76,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,23,DIV,2,744,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,333,284,90,76,44,36,30,25,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[3],/body[2]/div[9]/div[2]/div[3],/body[2]/div[9]/div[2]/div[3],0.0,12,10,90,76,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,22,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/22.png,results/iphonese/22.png,12,10,97,82,30,25,300,256,12,10,97,82,0.0,751.1,750,640,375,320,/body[2]/div[9]/div[2]/div[2]/a[1]/img[1],/body[2]/div[9]/div[2]/div[2]/a[1]/img[1],/body[2]/div[9]/div[2]/div[2]/a[1]/img[1],1.0,0,0,0,0,333,284,90,76,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,21,A,1,512,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,12,10,97,82,30,25,30,25,12,10,90,76,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[2]/a[1],/body[2]/div[9]/div[2]/div[2]/a[1],/body[2]/div[9]/div[2]/div[2]/a[1],0.0,0,0,0,0,333,284,90,76,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,20,DIV,2,707,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,12,10,90,76,44,37,30,25,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[2],/body[2]/div[9]/div[2]/div[2],/body[2]/div[9]/div[2]/div[2],0.0,0,0,0,0,333,284,90,76,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,19,SPAN,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/19.png,results/iphonese/19.png,45,38,43,36,38,32,98,84,10,8,44,37,140571.0,1332.3,750,640,375,320,/body[2]/div[9]/div[2]/div[1]/a[2]/div[1]/span[2],/body[2]/div[9]/div[2]/div[1]/a[2]/div[1]/span[2],/body[2]/div[9]/div[2]/div[1]/a[2]/div[1]/span[2],1.0,20,17,54,46,12,10,90,76,1,1,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,18,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/18.png,results/iphonese/18.png,20,17,54,46,16,13,15,12,10,8,44,37,7971.0,97.2,750,640,375,320,/body[2]/div[9]/div[2]/div[1]/a[2]/div[1]/img[1],/body[2]/div[9]/div[2]/div[1]/a[2]/div[1]/img[1],/body[2]/div[9]/div[2]/div[1]/a[2]/div[1]/img[1],0.6,0,0,0,0,45,38,43,36,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,17,DIV,2,904,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,10,8,44,37,36,30,355,302,0,0,44,37,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[1]/a[2]/div[1],/body[2]/div[9]/div[2]/div[1]/a[2]/div[1],/body[2]/div[9]/div[2]/div[1]/a[2]/div[1],0.0,0,0,0,0,12,10,90,76,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,16,A,3,1284,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,44,37,46,39,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[1]/a[2],/body[2]/div[9]/div[2]/div[1]/a[2],/body[2]/div[9]/div[2]/div[1]/a[2],0.0,0,0,0,0,12,10,90,76,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,15,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/15.png,results/iphonese/15.png,128,109,11,10,20,17,118,101,0,0,0,0,191991.0,1801.1,750,640,375,320,/body[2]/div[9]/div[2]/div[1]/div[1]/img[1],/body[2]/div[9]/div[2]/div[1]/div[1]/img[1],/body[2]/div[9]/div[2]/div[1]/div[1]/img[1],0.6,0,0,0,0,0,0,44,37,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,14,DIV,1,516,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,44,37,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[1]/div[1],/body[2]/div[9]/div[2]/div[1]/div[1],/body[2]/div[9]/div[2]/div[1]/div[1],0.0,0,0,0,0,0,0,44,37,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,13,DIV,6,2403,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,90,76,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2]/div[1],/body[2]/div[9]/div[2]/div[1],/body[2]/div[9]/div[2]/div[1],0.0,0,0,0,0,12,10,90,76,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,12,DIV,13,4679,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,90,76,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[2],/body[2]/div[9]/div[2],/body[2]/div[9]/div[2],0.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,11,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/11.png,results/iphonese/11.png,0,0,0,0,91,77,375,320,0,0,0,0,708228.0,549761.4,750,640,375,320,/body[2]/div[9]/div[1]/div[1]/div[1],/body[2]/div[9]/div[1]/div[1]/div[1],/body[2]/div[9]/div[1]/div[1]/div[1],1.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,10,DIV,1,253,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,91,77,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[1]/div[1],/body[2]/div[9]/div[1]/div[1],/body[2]/div[9]/div[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,9,DIV,2,454,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,553,454,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9]/div[1],/body[2]/div[9]/div[1],/body[2]/div[9]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"
+http://wwatana.be/mobile/topsites/www.tmall.com/,8,DIV,19,6248,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,553,454,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/div[9],/body[2]/div[9],/body[2]/div[9],0.0,0,0,0,0,0,0,0,0,0,0,"PingFang SC","PingFang SC"

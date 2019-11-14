@@ -1,0 +1,78 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/www.linkedin.com/,58,SPAN,0,21,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/58.png,results/motog4/58.png,124,120,600,540,16,16,127,118,0,0,490,490,175150.0,2032.0,750,1080,375,360,/body[2]/div[1]/div[5]/div[4]/span[1],/body[2]/div[1]/div[5]/div[4]/span[1],/body[2]/div[1]/div[5]/div[4]/span[1],0.8,16,16,154,154,0,0,0,0,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,57,DIV,1,34,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,490,490,138,78,375,360,0,0,50,50,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/div[4],/body[2]/div[1]/div[5]/div[4],/body[2]/div[1]/div[5]/div[4],0.0,16,16,154,154,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,56,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/56.png,results/motog4/56.png,252,240,430,430,20,20,46,43,16,16,430,430,70281.0,391561.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/span[11]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11]/a[1],1.0,16,16,382,382,0,0,490,490,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,55,SPAN,1,152,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,16,16,430,430,20,20,343,328,16,16,154,154,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/span[11],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11],0.0,16,16,382,382,0,0,490,490,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,54,A,0,13,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/54.png,results/motog4/54.png,236,225,398,399,15,14,78,71,16,16,382,382,106193.0,1170.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[3],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[3],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[3],0.6,127,123,398,399,16,16,430,430,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,53,A,0,14,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/53.png,results/motog4/53.png,127,123,398,399,15,14,79,74,16,16,382,382,109082.0,1185.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[2],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[2],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[2],0.9,58,59,382,383,236,225,398,399,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,52,A,0,14,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/52.png,results/motog4/52.png,58,59,382,383,31,30,277,258,16,16,382,382,658334.0,8585.5,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[1],1.0,16,16,330,330,127,123,398,399,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,51,SPAN,3,316,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,16,16,382,382,32,32,343,328,16,16,154,154,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10],0.0,16,16,330,330,16,16,430,430,4,4,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,50,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/50.png,results/motog4/50.png,16,16,330,330,40,40,343,328,16,16,154,154,1212322.0,13720.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/input[9],/body[2]/div[1]/div[5]/form[3]/section[1]/input[9],/body[2]/div[1]/div[5]/form[3]/section[1]/input[9],1.0,16,16,274,274,16,16,382,382,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,49,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/49.png,results/motog4/49.png,16,16,274,274,40,40,343,328,16,16,154,154,116068.0,14224.5,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/input[8],/body[2]/div[1]/div[5]/form[3]/section[1]/input[8],/body[2]/div[1]/div[5]/form[3]/section[1]/input[8],1.0,0,0,0,0,16,16,330,330,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,47,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/47.png,results/motog4/47.png,16,16,234,234,40,40,343,328,16,16,154,154,395225.0,5443.7,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/input[6],/body[2]/div[1]/div[5]/form[3]/section[1]/input[6],/body[2]/div[1]/div[5]/form[3]/section[1]/input[6],0.6,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,45,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/45.png,results/motog4/45.png,16,16,194,194,40,40,343,328,16,16,154,154,167860.0,2624.2,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/input[4],/body[2]/div[1]/div[5]/form[3]/section[1]/input[4],/body[2]/div[1]/div[5]/form[3]/section[1]/input[4],0.8,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,43,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/43.png,results/motog4/43.png,16,16,154,154,40,40,343,328,16,16,154,154,121929.0,5167.7,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1]/input[2],/body[2]/div[1]/div[5]/form[3]/section[1]/input[2],/body[2]/div[1]/div[5]/form[3]/section[1]/input[2],0.9,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,41,SECTION,15,1494,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,16,16,154,154,296,296,343,328,16,16,154,154,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3]/section[1],/body[2]/div[1]/div[5]/form[3]/section[1],/body[2]/div[1]/div[5]/form[3]/section[1],0.0,0,0,0,0,0,0,490,490,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,40,FORM,16,1531,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,16,16,154,154,296,296,343,328,0,0,50,50,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/form[3],/body[2]/div[1]/div[5]/form[3],/body[2]/div[1]/div[5]/form[3],0.0,0,0,0,0,0,0,490,490,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,23,H3,0,29,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/23.png,results/motog4/23.png,0,0,116,116,24,24,375,360,0,0,50,50,261215.0,80567.7,750,1080,375,360,/body[2]/div[1]/div[5]/div[1]/h3[2],/body[2]/div[1]/div[5]/div[1]/h3[2],/body[2]/div[1]/div[5]/div[1]/h3[2],0.7,16,16,66,66,0,0,0,0,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,22,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/22.png,results/motog4/22.png,16,16,111,111,5,5,343,328,16,16,66,66,4143.0,2139.8,750,1080,375,360,/body[2]/div[1]/div[5]/div[1]/h2[1]/div[4],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[4],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[4],0.5,0,0,0,0,0,0,116,116,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,15,SPAN,0,30,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/15.png,results/motog4/15.png,16,16,66,66,50,50,343,328,16,16,66,66,609123.0,162563.1,750,1080,375,360,/body[2]/div[1]/div[5]/div[1]/h2[1]/div[2]/span[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[2]/span[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[2]/span[1],0.4,16,16,66,66,16,16,66,66,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,13,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/13.png,results/motog4/13.png,16,16,66,66,5,5,343,328,16,16,66,66,3588.0,1446.1,750,1080,375,360,/body[2]/div[1]/div[5]/div[1]/h2[1]/div[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[1],0.6,0,0,-200,-200,16,16,66,66,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,12,H2,10,427,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,16,16,66,66,50,50,343,328,0,0,50,50,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/div[1]/h2[1],/body[2]/div[1]/div[5]/div[1]/h2[1],/body[2]/div[1]/div[5]/div[1]/h2[1],0.0,0,0,-200,-200,0,0,116,116,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,11,DIV,17,712,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,50,50,144,144,375,360,0,0,50,50,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5]/div[1],/body[2]/div[1]/div[5]/div[1],/body[2]/div[1]/div[5]/div[1],0.0,0,0,-200,-200,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,10,DIV,48,3610,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,50,50,578,518,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[5],/body[2]/div[1]/div[5],/body[2]/div[1]/div[5],0.0,0,0,-200,-200,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,8,DIV,1,29,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,12,12,-200,-200,26,26,351,336,0,0,-200,-200,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[4]/div[1],/body[2]/div[1]/div[4]/div[1],/body[2]/div[1]/div[4]/div[1],0.0,0,0,0,0,0,0,50,50,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,7,DIV,2,56,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,-200,-200,26,26,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[4],/body[2]/div[1]/div[4],/body[2]/div[1]/div[4],0.0,0,0,0,0,0,0,50,50,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,6,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/6.png,results/motog4/6.png,16,16,0,1,50,48,141,173,0,0,0,0,327895.0,20834106.0,750,1080,375,360,/body[2]/div[1]/div[3]/div[1]/h1[1]/img[1],/body[2]/div[1]/div[3]/div[1]/h1[1]/img[1],/body[2]/div[1]/div[3]/div[1]/h1[1]/img[1],0.4,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,5,H1,1,113,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,50,50,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[3]/div[1]/h1[1],/body[2]/div[1]/div[3]/div[1]/h1[1],/body[2]/div[1]/div[3]/div[1]/h1[1],0.0,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,4,DIV,2,122,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,50,50,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[3]/div[1],/body[2]/div[1]/div[3]/div[1],/body[2]/div[1]/div[3]/div[1],0.0,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,3,DIV,3,149,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,50,50,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1]/div[3],/body[2]/div[1]/div[3],/body[2]/div[1]/div[3],0.0,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,0,DIV,58,4189,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,628,568,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system

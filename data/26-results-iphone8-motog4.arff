@@ -1,0 +1,66 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201801/8/,18,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/18.png,results/motog4/18.png,474,474,636,728,32,32,32,32,474,474,636,728,683767.0,1024.0,750,1080,980,980,/body[2]/div[1]/a[8]/img[1],/body[2]/div[1]/a[8]/img[1],/body[2]/div[1]/a[8]/img[1],0.0,0,0,0,0,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,17,A,1,3903,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,null,null,474,474,636,728,37,36,32,32,190,190,50,50,0.0,0.0,750,1080,980,980,/body[2]/div[1]/a[8],/body[2]/div[1]/a[8],/body[2]/div[1]/a[8],0.0,0,0,0,0,0,0,0,0,2,2,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,14,A,0,13,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/14.png,results/motog4/14.png,512,514,574,664,26,29,124,159,190,190,574,660,2235936.0,3224.0,750,1080,980,980,/body[2]/div[1]/div[6]/a[2],/body[2]/div[1]/div[6]/a[2],/body[2]/div[1]/div[6]/a[2],0.0,344,307,574,664,0,0,0,0,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,13,A,0,13,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/13.png,results/motog4/13.png,344,307,574,664,26,29,124,151,190,190,574,660,1788629.0,3224.0,750,1080,980,980,/body[2]/div[1]/div[6]/a[1],/body[2]/div[1]/div[6]/a[1],/body[2]/div[1]/div[6]/a[1],0.6,190,190,469,535,512,514,574,664,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,12,DIV,2,117,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,null,null,190,190,574,660,27,33,600,600,190,190,50,50,0.0,0.0,750,1080,980,980,/body[2]/div[1]/div[6],/body[2]/div[1]/div[6],/body[2]/div[1]/div[6],0.0,190,190,469,535,0,0,0,0,3,3,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,11,STRONG,0,12,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/11.png,results/motog4/11.png,442,553,507,586,28,33,152,176,190,190,469,535,2688279.0,4256.0,750,1080,980,980,/body[2]/div[1]/p[5]/strong[2],/body[2]/div[1]/p[5]/strong[2],/body[2]/div[1]/p[5]/strong[2],0.0,204,253,473,541,190,190,574,660,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,10,A,0,27,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/10.png,results/motog4/10.png,204,253,473,541,27,33,291,358,190,190,469,535,2422326.0,5792.6,750,1080,980,980,/body[2]/div[1]/p[5]/a[1],/body[2]/div[1]/p[5]/a[1],/body[2]/div[1]/p[5]/a[1],0.4,190,190,305,335,442,553,507,586,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,9,P,2,138,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,null,null,190,190,469,535,70,90,600,600,190,190,50,50,0.0,0.0,750,1080,980,980,/body[2]/div[1]/p[5],/body[2]/div[1]/p[5],/body[2]/div[1]/p[5],0.0,190,190,305,335,190,190,574,660,3,3,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,8,CODE,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/8.png,results/motog4/8.png,460,499,421,480,23,28,133,139,190,190,305,335,2058090.0,3059.0,750,1080,980,980,/body[2]/div[1]/p[4]/code[3],/body[2]/div[1]/p[4]/code[3],/body[2]/div[1]/p[4]/code[3],0.0,409,446,384,435,190,190,469,535,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/8/,7,CODE,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/7.png,results/motog4/7.png,409,446,384,435,23,28,252,264,190,190,305,335,3911829.0,5796.0,750,1080,980,980,/body[2]/div[1]/p[4]/code[2],/body[2]/div[1]/p[4]/code[2],/body[2]/div[1]/p[4]/code[2],0.0,582,635,350,386,460,499,421,480,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/8/,6,BR,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","null",null,null,2.0,-1.0,results/iphone8/6.png,null,582,-1,350,-1,20,-1,1,-1,190,-1,305,-1,-1.0,-1.0,750,-1,980,-1,/body[2]/div[1]/p[4]/br[1],/body[2]/div[1]/p[4]/br[1],null,-1.0,190,-1,215,-1,409,-1,384,-1,0,-1,"Helvetica Neue",null
+http://wwatana.be/mobile/mobile/201801/8/,5,P,3,181,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,null,null,190,190,305,335,144,180,600,600,190,190,50,50,0.0,0.0,750,1080,980,980,/body[2]/div[1]/p[4],/body[2]/div[1]/p[4],/body[2]/div[1]/p[4],0.0,190,190,215,225,190,190,469,535,4,4,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,4,P,0,74,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/4.png,results/motog4/4.png,190,190,215,225,70,90,600,600,190,190,50,50,20259690.0,198995.3,750,1080,980,980,/body[2]/div[1]/p[3],/body[2]/div[1]/p[3],/body[2]/div[1]/p[3],0.3,190,190,160,160,190,190,305,335,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,3,STRONG,0,14,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/3.png,results/motog4/3.png,414,401,163,166,28,33,152,176,190,190,160,160,2691732.0,4256.0,750,1080,980,980,/body[2]/div[1]/p[2]/strong[1],/body[2]/div[1]/p[2]/strong[1],/body[2]/div[1]/p[2]/strong[1],0.0,90,90,50,50,190,190,215,225,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,2,P,1,31,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,null,null,190,190,160,160,35,45,600,600,190,190,50,50,0.0,0.0,750,1080,980,980,/body[2]/div[1]/p[2],/body[2]/div[1]/p[2],/body[2]/div[1]/p[2],0.0,90,90,50,50,190,190,215,225,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,1,H1,0,3,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,results/iphone8/1.png,results/motog4/1.png,90,90,50,50,60,60,800,800,190,190,50,50,22226052.0,101747.5,750,1080,980,980,/body[2]/div[1]/h1[1],/body[2]/div[1]/h1[1],/body[2]/div[1]/h1[1],0.4,0,0,0,0,190,190,160,160,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,0,DIV,18,7243,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,1.1,null,null,190,190,50,50,623,717,600,600,0,0,50,50,0.0,0.0,750,1080,980,980,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,0,0,9,9,"Helvetica Neue","Helvetica Neue"

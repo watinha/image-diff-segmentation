@@ -1,0 +1,66 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201801/8/,18,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/18.png,results/iphone8plus/18.png,474,474,636,627,32,32,32,32,474,474,636,627,740352.0,1024.0,750,1242,980,980,/body[2]/div[1]/a[8]/img[1],/body[2]/div[1]/a[8]/img[1],/body[2]/div[1]/a[8]/img[1],0.0,0,0,0,0,0,0,0,0,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,17,A,1,3903,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,null,null,474,474,636,627,37,37,32,32,190,190,50,50,0.0,0.0,750,1242,980,980,/body[2]/div[1]/a[8],/body[2]/div[1]/a[8],/body[2]/div[1]/a[8],0.0,0,0,0,0,0,0,0,0,2,2,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,14,A,0,13,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/14.png,results/iphone8plus/14.png,512,512,574,565,26,26,124,124,190,190,574,565,2147448.0,3224.0,750,1242,980,980,/body[2]/div[1]/div[6]/a[2],/body[2]/div[1]/div[6]/a[2],/body[2]/div[1]/div[6]/a[2],0.0,344,344,574,565,0,0,0,0,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,13,A,0,13,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/13.png,results/iphone8plus/13.png,344,344,574,565,26,26,124,124,190,190,574,565,1735671.0,3222.0,750,1242,980,980,/body[2]/div[1]/div[6]/a[1],/body[2]/div[1]/div[6]/a[1],/body[2]/div[1]/div[6]/a[1],0.5,190,190,469,462,512,512,574,565,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,12,DIV,2,117,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,null,null,190,190,574,565,27,27,600,600,190,190,50,50,0.0,0.0,750,1242,980,980,/body[2]/div[1]/div[6],/body[2]/div[1]/div[6],/body[2]/div[1]/div[6],0.0,190,190,469,462,0,0,0,0,3,3,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,11,STRONG,0,12,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/11.png,results/iphone8plus/11.png,442,444,507,499,28,27,152,145,190,190,469,462,2925606.0,4256.0,750,1242,980,980,/body[2]/div[1]/p[5]/strong[2],/body[2]/div[1]/p[5]/strong[2],/body[2]/div[1]/p[5]/strong[2],0.0,204,216,473,466,190,190,574,565,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,10,A,0,27,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/10.png,results/iphone8plus/10.png,204,216,473,466,27,26,291,279,190,190,469,462,2474238.0,3447.6,750,1242,980,980,/body[2]/div[1]/p[5]/a[1],/body[2]/div[1]/p[5]/a[1],/body[2]/div[1]/p[5]/a[1],0.4,190,190,305,302,442,444,507,499,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,9,P,2,138,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,null,null,190,190,469,462,70,68,600,600,190,190,50,50,0.0,0.0,750,1242,980,980,/body[2]/div[1]/p[5],/body[2]/div[1]/p[5],/body[2]/div[1]/p[5],0.0,190,190,305,302,190,190,574,565,3,3,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,8,CODE,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/8.png,results/iphone8plus/8.png,460,458,421,414,23,23,133,133,190,190,305,302,2076498.0,3059.0,750,1242,980,980,/body[2]/div[1]/p[4]/code[3],/body[2]/div[1]/p[4]/code[3],/body[2]/div[1]/p[4]/code[3],0.0,409,407,384,378,190,190,469,462,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/8/,7,CODE,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/7.png,results/iphone8plus/7.png,409,407,384,378,23,23,252,252,190,190,305,302,4190508.0,5796.0,750,1242,980,980,/body[2]/div[1]/p[4]/code[2],/body[2]/div[1]/p[4]/code[2],/body[2]/div[1]/p[4]/code[2],0.0,582,533,350,345,460,458,421,414,1,1,monospace,monospace
+http://wwatana.be/mobile/mobile/201801/8/,6,BR,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/6.png,results/iphone8plus/6.png,582,533,350,345,20,20,1,1,190,190,305,302,12006.0,20.0,750,1242,980,980,/body[2]/div[1]/p[4]/br[1],/body[2]/div[1]/p[4]/br[1],/body[2]/div[1]/p[4]/br[1],0.0,190,190,215,214,409,407,384,378,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,5,P,3,181,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,null,null,190,190,305,302,144,140,600,600,190,190,50,50,0.0,0.0,750,1242,980,980,/body[2]/div[1]/p[4],/body[2]/div[1]/p[4],/body[2]/div[1]/p[4],0.0,190,190,215,214,190,190,469,462,4,4,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,4,P,0,74,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/4.png,results/iphone8plus/4.png,190,190,215,214,70,68,600,600,190,190,50,50,20701110.0,90578.1,750,1242,980,980,/body[2]/div[1]/p[3],/body[2]/div[1]/p[3],/body[2]/div[1]/p[3],0.4,190,190,160,160,190,190,305,302,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,3,STRONG,0,14,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/3.png,results/iphone8plus/3.png,414,418,163,163,28,27,152,144,190,190,160,160,2880750.0,4256.0,750,1242,980,980,/body[2]/div[1]/p[2]/strong[1],/body[2]/div[1]/p[2]/strong[1],/body[2]/div[1]/p[2]/strong[1],0.0,90,90,50,50,190,190,215,214,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,2,P,1,31,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,null,null,190,190,160,160,35,34,600,600,190,190,50,50,0.0,0.0,750,1242,980,980,/body[2]/div[1]/p[2],/body[2]/div[1]/p[2],/body[2]/div[1]/p[2],0.0,90,90,50,50,190,190,215,214,0,0,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,1,H1,0,3,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,results/iphone8/1.png,results/iphone8plus/1.png,90,90,50,50,60,60,800,800,190,190,50,50,22551052.0,105608.2,750,1242,980,980,/body[2]/div[1]/h1[1],/body[2]/div[1]/h1[1],/body[2]/div[1]/h1[1],0.3,0,0,0,0,190,190,160,160,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201801/8/,0,DIV,18,7243,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,1.3,null,null,190,190,50,50,623,614,600,600,0,0,50,50,0.0,0.0,750,1242,980,980,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,0,0,9,9,"Helvetica Neue","Helvetica Neue"

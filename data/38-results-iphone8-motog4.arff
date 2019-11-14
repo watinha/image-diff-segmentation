@@ -1,0 +1,62 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/www.live.com/,12,A,0,19,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/12.png,results/motog4/12.png,196,151,354,347,20,38,143,146,35,35,354,347,396566.0,38114.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1],0.3,35,35,244,239,0,0,0,0,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,11,DIV,1,170,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,35,35,354,347,21,38,305,290,35,35,354,347,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5]/div[1],0.0,35,35,244,239,0,0,0,0,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,10,DIV,2,207,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,35,35,354,347,21,38,305,290,35,35,40,40,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/div[5],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5],/body[2]/section[1]/div[1]/div[1]/div[1]/div[5],0.0,35,35,244,239,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,9,A,0,8,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/9.png,results/motog4/9.png,127,120,269,264,35,33,120,120,35,35,244,239,167506.0,5160.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4]/a[1],1.0,120,113,223,220,35,35,354,347,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,8,DIV,1,98,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,35,35,244,239,60,58,305,290,35,35,40,40,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/div[4],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4],/body[2]/section[1]/div[1]/div[1]/div[1]/div[4],0.0,120,113,223,220,35,35,354,347,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,7,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/7.png,results/motog4/7.png,120,113,199,197,40,38,134,134,120,113,223,220,862683.0,3938.2,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/a[3]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3]/img[1],0.7,35,35,120,119,35,35,244,239,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,6,A,1,141,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,120,113,223,220,20,19,135,134,35,35,40,40,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/a[3],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3],/body[2]/section[1]/div[1]/div[1]/div[1]/a[3],0.0,35,35,120,119,35,35,244,239,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,5,DIV,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/5.png,results/motog4/5.png,35,35,120,119,39,38,305,290,35,35,40,40,359055.0,225974.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/div[2],/body[2]/section[1]/div[1]/div[1]/div[1]/div[2],/body[2]/section[1]/div[1]/div[1]/div[1]/div[2],0.5,155,147,40,40,120,113,223,220,1,1,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,4,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/4.png,results/motog4/4.png,155,147,40,40,65,65,65,65,35,35,40,40,124773.0,145598.2,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/img[1],/body[2]/section[1]/div[1]/div[1]/div[1]/img[1],1.0,0,0,0,0,35,35,120,119,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,3,DIV,9,657,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,35,35,40,40,335,345,305,290,35,35,0,0,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,2,DIV,10,688,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,35,35,0,0,375,385,305,290,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1],/body[2]/section[1]/div[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,1,DIV,11,718,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,375,385,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/section[1]/div[1],/body[2]/section[1]/div[1],/body[2]/section[1]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"
+http://wwatana.be/mobile/topsites/www.live.com/,0,SECTION,12,747,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,375,385,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/section[1],/body[2]/section[1],/body[2]/section[1],0.0,0,0,0,0,0,0,0,0,0,0,"Segoe UI","Segoe UI"

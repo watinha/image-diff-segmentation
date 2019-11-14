@@ -1,0 +1,75 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201702/15/index.html,106,A,0,20,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/106.png,results/iphonese/106.png,79,79,1033,1139,22,22,159,159,28,28,1032,1138,25203.0,2035.8,750,640,375,320,/body[2]/section[3]/div[1]/div[4]/p[2]/a[1],/body[2]/section[3]/div[1]/div[4]/p[2]/a[1],/body[2]/section[3]/div[1]/div[4]/p[2]/a[1],1.0,28,28,979,1085,0,0,0,0,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,105,P,1,132,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,28,28,1032,1138,48,48,319,264,8,8,974,1080,0.0,0.0,750,640,375,320,/body[2]/section[3]/div[1]/div[4]/p[2],/body[2]/section[3]/div[1]/div[4]/p[2],/body[2]/section[3]/div[1]/div[4]/p[2],0.0,28,28,979,1085,0,0,0,0,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,104,H2,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/104.png,results/iphonese/104.png,28,28,979,1085,48,48,319,264,8,8,974,1080,855597.0,1061.7,750,640,375,320,/body[2]/section[3]/div[1]/div[4]/h2[1],/body[2]/section[3]/div[1]/div[4]/h2[1],/body[2]/section[3]/div[1]/div[4]/h2[1],0.5,8,8,815,897,28,28,1032,1138,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,103,DIV,3,161,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,974,1080,111,111,359,304,8,8,521,555,0.0,0.0,750,640,375,320,/body[2]/section[3]/div[1]/div[4],/body[2]/section[3]/div[1]/div[4],/body[2]/section[3]/div[1]/div[4],0.0,8,8,815,897,0,0,0,0,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,102,P,0,145,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/102.png,results/iphonese/102.png,28,28,873,955,96,120,319,264,8,8,815,897,2566722.0,1138.1,750,640,375,320,/body[2]/section[3]/div[1]/div[3]/p[2],/body[2]/section[3]/div[1]/div[3]/p[2],/body[2]/section[3]/div[1]/div[3]/p[2],1.0,28,28,820,902,8,8,974,1080,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,101,H2,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/101.png,results/iphonese/101.png,28,28,820,902,48,48,319,264,8,8,815,897,960825.0,947.4,750,640,375,320,/body[2]/section[3]/div[1]/div[3]/h2[1],/body[2]/section[3]/div[1]/div[3]/h2[1],/body[2]/section[3]/div[1]/div[3]/h2[1],0.4,8,8,680,738,28,28,873,955,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,100,DIV,2,174,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,815,897,159,183,359,304,8,8,521,555,0.0,0.0,750,640,375,320,/body[2]/section[3]/div[1]/div[3],/body[2]/section[3]/div[1]/div[3],/body[2]/section[3]/div[1]/div[3],0.0,8,8,680,738,8,8,974,1080,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,99,P,0,111,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/99.png,results/iphonese/99.png,28,28,738,796,72,96,319,264,8,8,680,738,1788243.0,960.0,750,640,375,320,/body[2]/section[3]/div[1]/div[2]/p[2],/body[2]/section[3]/div[1]/div[2]/p[2],/body[2]/section[3]/div[1]/div[2]/p[2],0.5,28,28,685,743,8,8,815,897,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,98,H2,0,4,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/98.png,results/iphonese/98.png,28,28,685,743,48,48,319,264,8,8,680,738,375855.0,6687.2,750,640,375,320,/body[2]/section[3]/div[1]/div[2]/h2[1],/body[2]/section[3]/div[1]/div[2]/h2[1],/body[2]/section[3]/div[1]/div[2]/h2[1],0.9,8,8,521,555,28,28,738,796,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,97,DIV,2,134,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,680,738,135,159,359,304,8,8,521,555,0.0,0.0,750,640,375,320,/body[2]/section[3]/div[1]/div[2],/body[2]/section[3]/div[1]/div[2],/body[2]/section[3]/div[1]/div[2],0.0,8,8,521,555,8,8,815,897,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,96,P,0,150,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/96.png,results/iphonese/96.png,28,28,579,613,96,120,319,264,8,8,521,555,2620929.0,506.4,750,640,375,320,/body[2]/section[3]/div[1]/div[1]/p[2],/body[2]/section[3]/div[1]/div[1]/p[2],/body[2]/section[3]/div[1]/div[1]/p[2],0.7,28,28,526,560,8,8,680,738,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,95,H2,0,18,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/95.png,results/iphonese/95.png,28,28,526,560,48,48,319,264,8,8,521,555,1505022.0,1609.7,750,640,375,320,/body[2]/section[3]/div[1]/div[1]/h2[1],/body[2]/section[3]/div[1]/div[1]/h2[1],/body[2]/section[3]/div[1]/div[1]/h2[1],0.5,8,8,10,10,28,28,579,613,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,94,DIV,2,188,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,521,555,159,183,359,304,8,8,521,555,0.0,0.0,750,640,375,320,/body[2]/section[3]/div[1]/div[1],/body[2]/section[3]/div[1]/div[1],/body[2]/section[3]/div[1]/div[1],0.0,8,8,10,10,8,8,680,738,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,93,DIV,13,758,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,521,555,564,636,359,304,8,8,521,555,0.0,0.0,750,640,375,320,/body[2]/section[3]/div[1],/body[2]/section[3]/div[1],/body[2]/section[3]/div[1],0.0,8,8,10,10,0,0,0,0,5,5,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,92,SECTION,14,785,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,521,555,564,636,359,304,8,8,10,10,0.0,0.0,750,640,375,320,/body[2]/section[3],/body[2]/section[3],/body[2]/section[3],0.0,8,8,10,10,0,0,0,0,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,91,IFRAME,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/91.png,results/iphonese/91.png,8,8,218,252,273,273,359,304,8,8,193,227,6318594.0,9994.5,750,640,375,320,/body[2]/section[2]/div[2]/iframe[1],/body[2]/section[2]/div[2]/iframe[1],/body[2]/section[2]/div[2]/iframe[1],0.6,8,8,10,10,8,8,521,555,0,0,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,90,DIV,1,102,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,193,227,298,298,359,304,8,8,10,10,0.0,0.0,750,640,375,320,/body[2]/section[2]/div[2],/body[2]/section[2]/div[2],/body[2]/section[2]/div[2],0.0,8,8,10,10,8,8,521,555,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,88,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/88.png,results/iphonese/88.png,8,8,149,183,40,40,105,105,8,8,81,81,22774.0,1676.5,750,640,375,320,/body[2]/section[2]/div[1]/span[4]/a[1],/body[2]/section[2]/div[1]/span[4]/a[1],/body[2]/section[2]/div[1]/span[4]/a[1],1.0,8,8,11,11,0,0,0,0,1,1,"Helvetica Neue","helvetica neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,87,SPAN,1,112,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,81,81,108,142,332,218,8,8,10,10,0.0,0.0,750,640,375,320,/body[2]/section[2]/div[1]/span[4],/body[2]/section[2]/div[1]/span[4],/body[2]/section[2]/div[1]/span[4],0.0,8,8,11,11,0,0,0,0,2,2,"Helvetica Neue","helvetica neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,83,DIV,6,318,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,10,10,169,203,359,304,8,8,10,10,0.0,0.0,750,640,375,320,/body[2]/section[2]/div[1],/body[2]/section[2]/div[1],/body[2]/section[2]/div[1],0.0,0,0,0,0,8,8,193,227,6,6,"Helvetica Neue","helvetica neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,82,SECTION,9,480,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,8,8,10,10,481,515,359,304,8,8,10,10,0.0,0.0,750,640,375,320,/body[2]/section[2],/body[2]/section[2],/body[2]/section[2],0.0,0,0,0,0,8,8,521,555,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,5,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/5.png,results/iphonese/5.png,25,25,12,12,31,31,325,270,0,0,2,2,426144.0,622.5,750,640,375,320,/body[2]/header[1]/section[3]/a[1],/body[2]/header[1]/section[3]/a[1],/body[2]/header[1]/section[3]/a[1],0.6,16,16,9,9,0,0,0,0,1,1,"Helvetica Neue","helvetica neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,4,SECTION,1,16,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,2,2,51,51,375,320,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/header[1]/section[3],/body[2]/header[1]/section[3],/body[2]/header[1]/section[3],0.0,16,16,9,9,0,0,0,0,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,3,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,results/iphone8/3.png,results/iphonese/3.png,22,22,17,17,20,20,25,25,16,16,9,9,0.0,0.0,750,640,375,320,/body[2]/header[1]/label[2]/div[1],/body[2]/header[1]/label[2]/div[1],/body[2]/header[1]/label[2]/div[1],1.0,0,0,0,0,0,0,2,2,0,0,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,2,LABEL,1,27,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,16,16,9,9,37,37,37,37,0,0,0,0,0.0,0.0,750,640,375,320,/body[2]/header[1]/label[2],/body[2]/header[1]/label[2],/body[2]/header[1]/label[2],0.0,0,0,0,0,0,0,2,2,0,0,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,0,HEADER,81,1685,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhoneSE",null,null,2.0,2.0,null,null,0,0,0,0,56,56,375,320,8,8,10,10,0.0,0.0,750,640,375,320,/body[2]/header[1],/body[2]/header[1],/body[2]/header[1],0.0,0,0,0,0,8,8,10,10,5,5,"Open Sans","Open Sans"

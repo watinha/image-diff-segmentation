@@ -1,0 +1,75 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/mobile/201702/15/index.html,106,A,0,20,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/106.png,results/motog4/106.png,79,79,1033,1077,22,20,159,158,28,28,1032,1075,190823.0,5773.3,750,1080,375,360,/body[2]/section[3]/div[1]/div[4]/p[2]/a[1],/body[2]/section[3]/div[1]/div[4]/p[2]/a[1],/body[2]/section[3]/div[1]/div[4]/p[2]/a[1],1.0,28,28,979,1022,0,0,0,0,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,105,P,1,132,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,28,28,1032,1075,48,48,319,304,8,8,974,1017,0.0,0.0,750,1080,375,360,/body[2]/section[3]/div[1]/div[4]/p[2],/body[2]/section[3]/div[1]/div[4]/p[2],/body[2]/section[3]/div[1]/div[4]/p[2],0.0,28,28,979,1022,0,0,0,0,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,104,H2,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/104.png,results/motog4/104.png,28,28,979,1022,48,48,319,304,8,8,974,1017,836844.0,2972.6,750,1080,375,360,/body[2]/section[3]/div[1]/div[4]/h2[1],/body[2]/section[3]/div[1]/div[4]/h2[1],/body[2]/section[3]/div[1]/div[4]/h2[1],0.5,8,8,815,858,28,28,1032,1075,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,103,DIV,3,161,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,974,1017,111,111,359,344,8,8,521,564,0.0,0.0,750,1080,375,360,/body[2]/section[3]/div[1]/div[4],/body[2]/section[3]/div[1]/div[4],/body[2]/section[3]/div[1]/div[4],0.0,8,8,815,858,0,0,0,0,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,102,P,0,145,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/102.png,results/motog4/102.png,28,28,873,916,96,96,319,304,8,8,815,858,2242593.0,40199.0,750,1080,375,360,/body[2]/section[3]/div[1]/div[3]/p[2],/body[2]/section[3]/div[1]/div[3]/p[2],/body[2]/section[3]/div[1]/div[3]/p[2],1.0,28,28,820,863,8,8,974,1017,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,101,H2,0,10,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/101.png,results/motog4/101.png,28,28,820,863,48,48,319,304,8,8,815,858,886185.0,3396.7,750,1080,375,360,/body[2]/section[3]/div[1]/div[3]/h2[1],/body[2]/section[3]/div[1]/div[3]/h2[1],/body[2]/section[3]/div[1]/div[3]/h2[1],0.6,8,8,680,723,28,28,873,916,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,100,DIV,2,174,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,815,858,159,159,359,344,8,8,521,564,0.0,0.0,750,1080,375,360,/body[2]/section[3]/div[1]/div[3],/body[2]/section[3]/div[1]/div[3],/body[2]/section[3]/div[1]/div[3],0.0,8,8,680,723,8,8,974,1017,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,99,P,0,111,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/99.png,results/motog4/99.png,28,28,738,781,72,72,319,304,8,8,680,723,1612764.0,20912.8,750,1080,375,360,/body[2]/section[3]/div[1]/div[2]/p[2],/body[2]/section[3]/div[1]/div[2]/p[2],/body[2]/section[3]/div[1]/div[2]/p[2],0.6,28,28,685,728,8,8,815,858,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,98,H2,0,4,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/98.png,results/motog4/98.png,28,28,685,728,48,48,319,304,8,8,680,723,271773.0,1249.8,750,1080,375,360,/body[2]/section[3]/div[1]/div[2]/h2[1],/body[2]/section[3]/div[1]/div[2]/h2[1],/body[2]/section[3]/div[1]/div[2]/h2[1],0.7,8,8,521,564,28,28,738,781,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,97,DIV,2,134,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,680,723,135,135,359,344,8,8,521,564,0.0,0.0,750,1080,375,360,/body[2]/section[3]/div[1]/div[2],/body[2]/section[3]/div[1]/div[2],/body[2]/section[3]/div[1]/div[2],0.0,8,8,521,564,8,8,815,858,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,96,P,0,150,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/96.png,results/motog4/96.png,28,28,579,622,96,96,319,304,8,8,521,564,2301276.0,44294.5,750,1080,375,360,/body[2]/section[3]/div[1]/div[1]/p[2],/body[2]/section[3]/div[1]/div[1]/p[2],/body[2]/section[3]/div[1]/div[1]/p[2],0.8,28,28,526,569,8,8,680,723,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,95,H2,0,18,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/95.png,results/motog4/95.png,28,28,526,569,48,48,319,304,8,8,521,564,1419957.0,5022.3,750,1080,375,360,/body[2]/section[3]/div[1]/div[1]/h2[1],/body[2]/section[3]/div[1]/div[1]/h2[1],/body[2]/section[3]/div[1]/div[1]/h2[1],0.8,8,8,10,10,28,28,579,622,1,1,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,94,DIV,2,188,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,521,564,159,159,359,344,8,8,521,564,0.0,0.0,750,1080,375,360,/body[2]/section[3]/div[1]/div[1],/body[2]/section[3]/div[1]/div[1],/body[2]/section[3]/div[1]/div[1],0.0,8,8,10,10,8,8,680,723,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,93,DIV,13,758,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,521,564,564,564,359,344,8,8,521,564,0.0,0.0,750,1080,375,360,/body[2]/section[3]/div[1],/body[2]/section[3]/div[1],/body[2]/section[3]/div[1],0.0,8,8,10,10,0,0,0,0,5,5,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,92,SECTION,14,785,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,521,564,564,564,359,344,8,8,10,10,0.0,0.0,750,1080,375,360,/body[2]/section[3],/body[2]/section[3],/body[2]/section[3],0.0,8,8,10,10,0,0,0,0,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,91,IFRAME,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/91.png,results/motog4/91.png,8,8,218,261,273,273,359,344,8,8,193,236,4707471.0,14991.6,750,1080,375,360,/body[2]/section[2]/div[2]/iframe[1],/body[2]/section[2]/div[2]/iframe[1],/body[2]/section[2]/div[2]/iframe[1],0.6,8,8,10,10,8,8,521,564,0,0,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,90,DIV,1,102,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,193,236,298,298,359,344,8,8,10,10,0.0,0.0,750,1080,375,360,/body[2]/section[2]/div[2],/body[2]/section[2]/div[2],/body[2]/section[2]/div[2],0.0,8,8,10,10,8,8,521,564,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,88,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/88.png,results/motog4/88.png,8,8,149,189,40,46,105,115,8,8,81,87,179858.0,9625.2,750,1080,375,360,/body[2]/section[2]/div[1]/span[4]/a[1],/body[2]/section[2]/div[1]/span[4]/a[1],/body[2]/section[2]/div[1]/span[4]/a[1],0.9,8,8,11,10,0,0,0,0,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,87,SPAN,1,112,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,81,87,108,148,332,100,8,8,10,10,0.0,0.0,750,1080,375,360,/body[2]/section[2]/div[1]/span[4],/body[2]/section[2]/div[1]/span[4],/body[2]/section[2]/div[1]/span[4],0.0,8,8,11,10,0,0,0,0,2,2,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,83,DIV,6,318,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,10,10,169,212,359,344,8,8,10,10,0.0,0.0,750,1080,375,360,/body[2]/section[2]/div[1],/body[2]/section[2]/div[1],/body[2]/section[2]/div[1],0.0,0,0,0,0,8,8,193,236,6,6,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,82,SECTION,9,480,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,8,8,10,10,481,524,359,344,8,8,10,10,0.0,0.0,750,1080,375,360,/body[2]/section[2],/body[2]/section[2],/body[2]/section[2],0.0,0,0,0,0,8,8,521,564,3,3,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,5,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/5.png,results/motog4/5.png,25,25,12,12,31,34,325,310,0,0,2,2,398523.0,2226.3,750,1080,375,360,/body[2]/header[1]/section[3]/a[1],/body[2]/header[1]/section[3]/a[1],/body[2]/header[1]/section[3]/a[1],0.6,16,16,9,9,0,0,0,0,1,1,"Helvetica Neue","Helvetica Neue"
+http://wwatana.be/mobile/mobile/201702/15/index.html,4,SECTION,1,16,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,2,2,51,54,375,360,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/header[1]/section[3],/body[2]/header[1]/section[3],/body[2]/header[1]/section[3],0.0,16,16,9,9,0,0,0,0,2,2,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,3,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,results/iphone8/3.png,results/motog4/3.png,22,22,17,17,20,20,25,25,16,16,9,9,561.0,201.7,750,1080,375,360,/body[2]/header[1]/label[2]/div[1],/body[2]/header[1]/label[2]/div[1],/body[2]/header[1]/label[2]/div[1],1.0,0,0,0,0,0,0,2,2,0,0,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,2,LABEL,1,27,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,16,16,9,9,37,37,37,37,0,0,0,0,0.0,0.0,750,1080,375,360,/body[2]/header[1]/label[2],/body[2]/header[1]/label[2],/body[2]/header[1]/label[2],0.0,0,0,0,0,0,0,2,2,0,0,"Open Sans","Open Sans"
+http://wwatana.be/mobile/mobile/201702/15/index.html,0,HEADER,81,1685,"iOS 12.1 - Safari -- iOS - iPhone 8","Android null - Chrome -- Android - MotoG4",null,null,2.0,3.0,null,null,0,0,0,0,56,56,375,360,8,8,10,10,0.0,0.0,750,1080,375,360,/body[2]/header[1],/body[2]/header[1],/body[2]/header[1],0.0,0,0,0,0,8,8,10,10,5,5,"Open Sans","Open Sans"

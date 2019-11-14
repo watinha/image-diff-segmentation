@@ -1,0 +1,78 @@
+@RELATION browserninja.website
+@ATTRIBUTE URL STRING
+@ATTRIBUTE id NUMERIC
+@ATTRIBUTE tagName STRING
+@ATTRIBUTE childsNumber NUMERIC
+@ATTRIBUTE textLength NUMERIC
+@ATTRIBUTE basePlatform STRING
+@ATTRIBUTE targetPlatform STRING
+@ATTRIBUTE baseBrowser STRING
+@ATTRIBUTE targetBrowser STRING
+@ATTRIBUTE baseDPI NUMERIC
+@ATTRIBUTE targetDPI NUMERIC
+@ATTRIBUTE baseScreenshot STRING
+@ATTRIBUTE targetScreenshot STRING
+@ATTRIBUTE baseX NUMERIC
+@ATTRIBUTE targetX NUMERIC
+@ATTRIBUTE baseY NUMERIC
+@ATTRIBUTE targetY NUMERIC
+@ATTRIBUTE baseHeight NUMERIC
+@ATTRIBUTE targetHeight NUMERIC
+@ATTRIBUTE baseWidth NUMERIC
+@ATTRIBUTE targetWidth NUMERIC
+@ATTRIBUTE baseParentX NUMERIC
+@ATTRIBUTE targetParentX NUMERIC
+@ATTRIBUTE baseParentY NUMERIC
+@ATTRIBUTE targetParentY NUMERIC
+@ATTRIBUTE imageDiff NUMERIC
+@ATTRIBUTE chiSquared NUMERIC
+@ATTRIBUTE baseDeviceWidth NUMERIC
+@ATTRIBUTE targetDeviceWidth NUMERIC
+@ATTRIBUTE baseViewportWidth NUMERIC
+@ATTRIBUTE targetViewportWidth NUMERIC
+@ATTRIBUTE xpath STRING
+@ATTRIBUTE baseXpath STRING
+@ATTRIBUTE targetXpath STRING
+@ATTRIBUTE phash NUMERIC
+@ATTRIBUTE basePreviousSiblingLeft NUMERIC
+@ATTRIBUTE targetPreviousSiblingLeft NUMERIC
+@ATTRIBUTE basePreviousSiblingTop NUMERIC
+@ATTRIBUTE targetPreviousSiblingTop NUMERIC
+@ATTRIBUTE baseNextSiblingLeft NUMERIC
+@ATTRIBUTE targetNextSiblingLeft NUMERIC
+@ATTRIBUTE baseNextSiblingTop NUMERIC
+@ATTRIBUTE targetNextSiblingTop NUMERIC
+@ATTRIBUTE baseTextNodes NUMERIC
+@ATTRIBUTE targetTextNodes NUMERIC
+@ATTRIBUTE baseFontFamily STRING
+@ATTRIBUTE targetFontFamily STRING
+@DATA
+http://wwatana.be/mobile/topsites/www.linkedin.com/,58,SPAN,0,21,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/58.png,results/iphone8plus/58.png,124,143,600,668,16,16,127,127,0,0,490,490,95175.0,1524.2,750,1242,375,414,/body[2]/div[1]/div[5]/div[4]/span[1],/body[2]/div[1]/div[5]/div[4]/span[1],/body[2]/div[1]/div[5]/div[4]/span[1],0.8,16,16,154,154,0,0,0,0,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,57,DIV,1,34,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,490,490,138,206,375,414,0,0,50,50,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/div[4],/body[2]/div[1]/div[5]/div[4],/body[2]/div[1]/div[5]/div[4],0.0,16,16,154,154,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,56,A,0,7,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/56.png,results/iphone8plus/56.png,252,271,430,430,20,20,46,46,16,16,430,430,46819.0,769.3,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/span[11]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11]/a[1],1.0,16,16,382,382,0,0,490,490,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,55,SPAN,1,152,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,16,16,430,430,20,20,343,382,16,16,154,154,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/span[11],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11],/body[2]/div[1]/div[5]/form[3]/section[1]/span[11],0.0,16,16,382,382,0,0,490,490,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,54,A,0,13,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/54.png,results/iphone8plus/54.png,236,221,398,398,15,15,78,78,16,16,382,382,32334.0,940.4,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[3],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[3],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[3],0.7,127,112,398,398,16,16,430,430,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,53,A,0,14,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/53.png,results/iphone8plus/53.png,127,112,398,398,15,15,79,79,16,16,382,382,32034.0,1875.3,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[2],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[2],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[2],1.0,58,292,382,382,236,221,398,398,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,52,A,0,14,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/52.png,results/iphone8plus/52.png,58,292,382,382,31,15,277,93,16,16,382,382,970266.0,7130.0,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[1],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10]/a[1],1.0,16,16,330,330,127,112,398,398,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,51,SPAN,3,316,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,16,16,382,382,32,32,343,382,16,16,154,154,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/span[10],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10],/body[2]/div[1]/div[5]/form[3]/section[1]/span[10],0.0,16,16,330,330,16,16,430,430,4,4,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,50,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/50.png,results/iphone8plus/50.png,16,16,330,330,40,40,343,382,16,16,154,154,18105.0,82501.7,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/input[9],/body[2]/div[1]/div[5]/form[3]/section[1]/input[9],/body[2]/div[1]/div[5]/form[3]/section[1]/input[9],1.0,16,16,274,274,16,16,382,382,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,49,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/49.png,results/iphone8plus/49.png,16,16,274,274,40,40,343,382,16,16,154,154,84720.0,6347.4,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/input[8],/body[2]/div[1]/div[5]/form[3]/section[1]/input[8],/body[2]/div[1]/div[5]/form[3]/section[1]/input[8],0.8,0,0,0,0,16,16,330,330,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,47,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/47.png,results/iphone8plus/47.png,16,16,234,234,40,40,343,382,16,16,154,154,176076.0,43819.5,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/input[6],/body[2]/div[1]/div[5]/form[3]/section[1]/input[6],/body[2]/div[1]/div[5]/form[3]/section[1]/input[6],0.7,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,45,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/45.png,results/iphone8plus/45.png,16,16,194,194,40,40,343,382,16,16,154,154,77019.0,24229.6,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/input[4],/body[2]/div[1]/div[5]/form[3]/section[1]/input[4],/body[2]/div[1]/div[5]/form[3]/section[1]/input[4],0.8,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,43,INPUT,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/43.png,results/iphone8plus/43.png,16,16,154,154,40,40,343,382,16,16,154,154,85022.0,9853.0,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1]/input[2],/body[2]/div[1]/div[5]/form[3]/section[1]/input[2],/body[2]/div[1]/div[5]/form[3]/section[1]/input[2],0.7,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,41,SECTION,15,1494,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,16,16,154,154,296,296,343,382,16,16,154,154,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/form[3]/section[1],/body[2]/div[1]/div[5]/form[3]/section[1],/body[2]/div[1]/div[5]/form[3]/section[1],0.0,0,0,0,0,0,0,490,490,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,40,FORM,16,1531,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,16,16,154,154,296,296,343,382,0,0,50,50,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/form[3],/body[2]/div[1]/div[5]/form[3],/body[2]/div[1]/div[5]/form[3],0.0,0,0,0,0,0,0,490,490,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,23,H3,0,29,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/23.png,results/iphone8plus/23.png,0,0,116,116,24,24,375,414,0,0,50,50,256516.0,10204.3,750,1242,375,414,/body[2]/div[1]/div[5]/div[1]/h3[2],/body[2]/div[1]/div[5]/div[1]/h3[2],/body[2]/div[1]/div[5]/div[1]/h3[2],0.5,16,16,66,66,0,0,0,0,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,22,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/22.png,results/iphone8plus/22.png,16,16,111,111,5,5,343,382,16,16,66,66,2293.0,431.2,750,1242,375,414,/body[2]/div[1]/div[5]/div[1]/h2[1]/div[4],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[4],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[4],0.7,0,0,0,0,0,0,116,116,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,15,SPAN,0,30,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/15.png,results/iphone8plus/15.png,16,16,66,66,50,50,343,382,16,16,66,66,545684.0,65329.8,750,1242,375,414,/body[2]/div[1]/div[5]/div[1]/h2[1]/div[2]/span[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[2]/span[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[2]/span[1],0.4,16,16,66,66,16,16,66,66,1,1,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,13,DIV,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/13.png,results/iphone8plus/13.png,16,16,66,66,5,5,343,382,16,16,66,66,2560.0,398.4,750,1242,375,414,/body[2]/div[1]/div[5]/div[1]/h2[1]/div[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[1],/body[2]/div[1]/div[5]/div[1]/h2[1]/div[1],0.8,0,0,-200,-200,16,16,66,66,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,12,H2,10,427,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,16,16,66,66,50,50,343,382,0,0,50,50,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/div[1]/h2[1],/body[2]/div[1]/div[5]/div[1]/h2[1],/body[2]/div[1]/div[5]/div[1]/h2[1],0.0,0,0,-200,-200,0,0,116,116,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,11,DIV,17,712,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,50,50,144,144,375,414,0,0,50,50,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5]/div[1],/body[2]/div[1]/div[5]/div[1],/body[2]/div[1]/div[5]/div[1],0.0,0,0,-200,-200,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,10,DIV,48,3610,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,50,50,578,646,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[5],/body[2]/div[1]/div[5],/body[2]/div[1]/div[5],0.0,0,0,-200,-200,0,0,0,0,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,8,DIV,1,29,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,12,12,-200,-200,26,26,351,390,0,0,-200,-200,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[4]/div[1],/body[2]/div[1]/div[4]/div[1],/body[2]/div[1]/div[4]/div[1],0.0,0,0,0,0,0,0,50,50,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,7,DIV,2,56,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,-200,-200,26,26,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[4],/body[2]/div[1]/div[4],/body[2]/div[1]/div[4],0.0,0,0,0,0,0,0,50,50,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,6,IMG,0,0,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,results/iphone8/6.png,results/iphone8plus/6.png,16,16,0,0,50,50,141,141,0,0,0,0,59749.0,12844.4,750,1242,375,414,/body[2]/div[1]/div[3]/div[1]/h1[1]/img[1],/body[2]/div[1]/div[3]/div[1]/h1[1]/img[1],/body[2]/div[1]/div[3]/div[1]/h1[1]/img[1],0.3,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,5,H1,1,113,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,0,0,50,50,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[3]/div[1]/h1[1],/body[2]/div[1]/div[3]/div[1]/h1[1],/body[2]/div[1]/div[3]/div[1]/h1[1],0.0,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,4,DIV,2,122,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,0,0,50,50,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[3]/div[1],/body[2]/div[1]/div[3]/div[1],/body[2]/div[1]/div[3]/div[1],0.0,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,3,DIV,3,149,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,0,0,50,50,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/div[1]/div[3],/body[2]/div[1]/div[3],/body[2]/div[1]/div[3],0.0,0,0,0,0,0,0,-200,-200,0,0,-apple-system,-apple-system
+http://wwatana.be/mobile/topsites/www.linkedin.com/,0,DIV,58,4189,"iOS 12.1 - Safari -- iOS - iPhone 8","iOS 12.1 - Safari -- iOS - iPhone 8 Plus",null,null,2.0,3.0,null,null,0,0,0,0,628,696,375,414,0,0,0,0,0.0,0.0,750,1242,375,414,/body[2]/div[1],/body[2]/div[1],/body[2]/div[1],0.0,0,0,0,0,0,0,0,0,0,0,-apple-system,-apple-system
