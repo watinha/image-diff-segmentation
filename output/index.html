@@ -60,7 +60,7 @@
             <div class="cluster"></div>
         </div>
         <div class="screenshot test">
-            <img src="./screeenshot-test-croped.png" />
+            <img src="./screenshot-test-croped.png" />
             <div class="diff"></div>
             <div class="diff clusters"></div>
             <div class="cluster"></div>
@@ -110,8 +110,10 @@
                     App.next();
                 if (ev.keyCode === 38 || ev.keyCode === 37)
                     App.prev();
-                if (ev.keyCode === 13)
+                if (ev.keyCode === 13) {
                     App.classify();
+                    App.next();
+                }
             });
 
             let App = (function () {
@@ -149,7 +151,7 @@
                         render();
                     },
                     classify: () => {
-                        clusters[selected][286] = cursor.value ? cursor.value : 0;
+                        clusters[selected][306] = cursor.value ? cursor.value : 0;
                         cursor.value = '';
                     },
                     report: () => {
